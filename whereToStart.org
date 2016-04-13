@@ -18,15 +18,17 @@ In looking to the stories of Descartes and Locke we see early statements of the 
 #+Attr_html: :alt Rened Descartes :width 200 :align center
 [[file:images/Descartes_Groninger.jpg]]
 
-* IAMHERE 							   :noexport:
- (1596 - 1650) mathematician, philosopher, scientist.
+*** Why?
 
- Bio. son of a councilor, mom died of TB, feared same for Descartes. touch and go at first.  Family inheritance. Jesuit school. Allowed to sleep late because ``sickly'' and bright. Life long habit.  Degree in law in Paris.  Age 22 (how typical) crisis, what good was knowledge? Volunteered for army, mercenary Holland against Spanish forces. Developed his philosophy of Je pense, donc Je suis.  Wrote in vernacular, like Galileo.  Analytic geometry. Scientific investigation. Extracted ox eye and first to demonstrate the inversion of the retinal image (thinned back).  Was going to publish big work (Le Monde) when school buddy Mersenne wrote about Galileo. Descartes decides to hold off on much and stays in Holland to avoid religious persecution. averages about one address per year for the next twenty years.  Queen Christina calls him, by invitation with a war ship, to come tutor her in Sweden. Lessons in winter at 5 am. Descartes gets pneumonia and dies.  Swedish ambassador cuts off a finger for a souvenir.  Casket sent to small so they separate head from body. Head gets lost for 150 years.  
+For a first foray into the history of psychology ... IAMHERE ...
+  (1596 - 1650) mathematician, philosopher, scientist.
 
- He his important to us for several reasons. 
- - his explicit linking of the brain with behavior, and mental life.
- - he shows the connection to philosophical and psychological ideas. He proposes an explicit location for the communication of the mental and physical.
- - he treats the body as a machine
+  Bio. son of a councilor, mom died of TB, feared same for Descartes. touch and go at first.  Family inheritance. Jesuit school. Allowed to sleep late because ``sickly'' and bright. Life long habit.  Degree in law in Paris.  Age 22 (how typical) crisis, what good was knowledge? Volunteered for army, mercenary Holland against Spanish forces. Developed his philosophy of Je pense, donc Je suis.  Wrote in vernacular, like Galileo.  Analytic geometry. Scientific investigation. Extracted ox eye and first to demonstrate the inversion of the retinal image (thinned back).  Was going to publish big work (Le Monde) when school buddy Mersenne wrote about Galileo. Descartes decides to hold off on much and stays in Holland to avoid religious persecution. averages about one address per year for the next twenty years.  Queen Christina calls him, by invitation with a war ship, to come tutor her in Sweden. Lessons in winter at 5 am. Descartes gets pneumonia and dies.  Swedish ambassador cuts off a finger for a souvenir.  Casket sent to small so they separate head from body. Head gets lost for 150 years.  
+
+  He his important to us for several reasons. 
+  - his explicit linking of the brain with behavior, and mental life.
+  - he shows the connection to philosophical and psychological ideas. He proposes an explicit location for the communication of the mental and physical.
+  - he treats the body as a machine
 ** Q2
 *** What does the word Zeitgeist Mean?
 (from Wikipedia) The Zeitgeist (spirit of the age or spirit of the time) is the intellectual fashion or dominant school of thought that typifies and influences the culture of a particular period in time. For example, the Zeitgeist of modernism typified and influenced architecture, art, and fashion during much of the 20th century.
