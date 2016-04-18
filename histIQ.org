@@ -1,0 +1,18 @@
+#+Title: History of Intelligence Testing
+#+Options: timestamp:nil
+
+* Stub
+
+** Galton
+
+** Spearman
+
+** Cattell
+
+** Yerkes and Woodworth
+
+** Binet
+
+** Goddard
+
+** Terman

@@ -1,0 +1,6 @@
+#+Title: Psychophysics
+#+Options: timestamp:nil
+
+* Stub
+** Ernst Weber
+** Gustav Fechner

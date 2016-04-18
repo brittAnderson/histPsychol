@@ -1,0 +1,10 @@
+#+Title: Gestalt Psychology
+#+Options: timestamp:nil
+
+* Stub
+
+** Max Wertheimer
+
+** Wolfgang Köhler
+
+** Kurt Koffka
