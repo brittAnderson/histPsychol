@@ -1,9 +1,0 @@
-Just trying to keep a few notes of what I did to make this project.
-* First built github site
-  This was just an empty repo with a license and a readme
-* Next created readthedocs account for the book
-  The readthedocs site is [[https://readthedocs.org/projects/history-of-psychology/][here]].
-* Used the sphinx-quickstart2 to begin the sphinx documentation set-up
-  This is detailed [[http://www.sphinx-doc.org/en/stable/tutorial.html][here]]. The =2= at the end of the quickstart command is, I think, because I am using Python version 2, and the convention with archlinux is to name the python2 packages with the numeral 2 attached. 
-* Make sure to put titles on pages for rst export
-  Otherwise you get a cryptic =make-string= error
