@@ -74,7 +74,7 @@ Fortunately it has been found (since 1821).
 
 .. figure:: images/descartesSkull.jpg
 
-    The skull of Descartes. Downloaded from  `link <http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61816-X/fulltext?version=printerFriendly>`_
+    The skull of Descartes. Downloaded from `link <http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61816-X/fulltext?version=printerFriendly>`_
 
 2.1.2 Lessons for Scientific Psychology from Descartes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

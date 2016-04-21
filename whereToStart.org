@@ -58,7 +58,7 @@ To provide himself a home and a salary Descartes contracted to tutor Queen Chris
 His accomplishments though bred fame, and the French ambassador cut off a finger of Descartes corpse for a souvenir. A lead casket was sent from France to return the great man's remains, but being too short they left his head behind. 
 Fortunately it has been found (since 1821). 
 
-#+Caption: The skull of Descartes. Downloaded from  [[http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61816-X/fulltext?version=printerFriendly][link]]
+#+Caption: The skull of Descartes. Downloaded from [[http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61816-X/fulltext?version=printerFriendly][link]]
 #+Attr_html: :alt Rene Descartes' Skull  :width 200 :align center
 [[file:images/descartesSkull.jpg]]
 
