@@ -15,7 +15,7 @@ Contents:
    whatIsPsychology
    whereToStart
    wundt
-   psychophyiscs
+   psychophysics
    physiology
    earlyAmericans
    earlyGermans

@@ -12,8 +12,8 @@ In looking to the stories of Descartes and Locke we see early statements of the 
 
 * Philosophers and Psychology
 ** Descartes (1596 - 1650)
-#+Caption: Rene Descartes by Jan Lievens. Downloaded from  [[http://emlo.bodleian.ox.ac.uk/blog/?catalogue=rene-descartes][link]]
-#+Attr_html: :alt Rened Descartes :width 200 :align center
+#+Caption: Rene Descartes by Jan Lievens. Downloaded from  [[http://emlo.bodleian.ox.ac.uk/blog/?catalogue=rene-descartes][The Bodleian]]
+#+Attr_rst: :alt Rene Descartes :width 200 :align center
 [[file:images/Descartes_Groninger.jpg]]
 
 
@@ -51,6 +51,10 @@ Descartes was interested in trying to unite his philosophical dualism with his k
 
 
 **** Denouement
+#+Caption: The skull of Descartes. Downloaded from [[http://www.sciencedirect.com/science/article/pii/S014067361461816X][The Lancet]]
+#+Attr_rst: :alt Rene Descartes' Skull  :width 200 :align center
+[[file:images/descartesSkull.jpg]]
+
 Descartes, like many of his contemporaries, had to fear retribution for his scientific ideas from the Catholic church. A mechanical account of behavior could be seen as antagonistic to religious teachings. And, along with others of his contemporaries (e.g. Locke) he took refuge in Holland. The Dutch were relatively free thinking and tolerant, and played host to many scientists potentially exposed to accusations of heresy. 
 
 To provide himself a home and a salary Descartes contracted to tutor Queen Christina of Sweden. Christina was an educated woman when that was rare and royal females were treated more as sexual bargaining chips. She was also, unfortunately for Descartes, a believer in early hours and possessed a robust constitution. Descartes did not, and it was not too long after wintering in Sweden and arising at 5 am that he died of pneumonia.
@@ -58,9 +62,6 @@ To provide himself a home and a salary Descartes contracted to tutor Queen Chris
 His accomplishments though bred fame, and the French ambassador cut off a finger of Descartes corpse for a souvenir. A lead casket was sent from France to return the great man's remains, but being too short they left his head behind. 
 Fortunately it has been found (since 1821). 
 
-#+Caption: The skull of Descartes. Downloaded from [[http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61816-X/fulltext?version=printerFriendly][link]]
-#+Attr_html: :alt Rene Descartes' Skull  :width 200 :align center
-[[file:images/descartesSkull.jpg]]
 
 *** Lessons for Scientific Psychology from Descartes
 From ancient times the mind of man was linked with his spiritual aspect, that is his soul. When  empirical practices were more widely adopted, and combined with improved practical technical skills the arts and sciences flourished in what we call the Renaissance. In this milieu a person of Descartes great intellectual ability could contribute to multiple fields including math and neuroscience. He could also elaborate a view of mental philosophy that provided a rational argument for ones' mental existence, and he could also provide a paradigm in which the mental and physical were separate, but interactive so that both a knowledge of the nervous system and a knowledge of mental structure would be necessary for a complete understanding of human psychology. 
@@ -69,7 +70,8 @@ We can also learn the lesson of humility. Despite his greatness Descartes made o
 
 
 * iamhere :noexport:
-  need to sum up Descartes section than on to locke
+
+need to sum up Descartes section than on to locke
 
 ** Q2
 

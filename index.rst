@@ -9,13 +9,13 @@ Welcome to History of Psychology's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    preface
    whatIsPsychology
    whereToStart
    wundt
-   psychophyiscs
+   psychophysics
    physiology
    earlyAmericans
    earlyGermans

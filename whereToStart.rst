@@ -23,8 +23,12 @@ In looking to the stories of Descartes and Locke we see early statements of the 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: images/Descartes_Groninger.jpg
+    :alt: Rene Descartes
+    :width: 200
+    :align: center
 
-    Rene Descartes by Jan Lievens. Downloaded from  `link <http://emlo.bodleian.ox.ac.uk/blog/?catalogue=rene-descartes>`_
+
+    Rene Descartes by Jan Lievens. Downloaded from  `The Bodleian <http://emlo.bodleian.ox.ac.uk/blog/?catalogue=rene-descartes>`_
 
 
 Descartes was a genius and polymath. His inclusion here rests not on the content of his substance dualist claim that mind and matter were two different things, but on the fact that in making this claim he was pulling together the topics of introspective philosophy and physiology. Descartes maintained that matter was physical, and the mind was not. They were two substances (*Res cogitans* and *Res extensa*) yet they interacted. Mind could influence matter and thus thought could determine behavior. In this rapprochement between brain and spirit Descartes presages the creation of a science of psychology which will take thought and its physical basis as its content. 
@@ -65,16 +69,20 @@ Descartes was interested in trying to unite his philosophical dualism with his k
 2.1.1.3 Denouement
 ::::::::::::::::::
 
+.. figure:: images/descartesSkull.jpg
+    :alt: Rene Descartes' Skull
+    :width: 200
+    :align: center
+
+
+    The skull of Descartes. Downloaded from `The Lancet <http://www.sciencedirect.com/science/article/pii/S014067361461816X>`_
+
 Descartes, like many of his contemporaries, had to fear retribution for his scientific ideas from the Catholic church. A mechanical account of behavior could be seen as antagonistic to religious teachings. And, along with others of his contemporaries (e.g. Locke) he took refuge in Holland. The Dutch were relatively free thinking and tolerant, and played host to many scientists potentially exposed to accusations of heresy. 
 
 To provide himself a home and a salary Descartes contracted to tutor Queen Christina of Sweden. Christina was an educated woman when that was rare and royal females were treated more as sexual bargaining chips. She was also, unfortunately for Descartes, a believer in early hours and possessed a robust constitution. Descartes did not, and it was not too long after wintering in Sweden and arising at 5 am that he died of pneumonia.
 
 His accomplishments though bred fame, and the French ambassador cut off a finger of Descartes corpse for a souvenir. A lead casket was sent from France to return the great man's remains, but being too short they left his head behind. 
 Fortunately it has been found (since 1821). 
-
-.. figure:: images/descartesSkull.jpg
-
-    The skull of Descartes. Downloaded from `link <http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61816-X/fulltext?version=printerFriendly>`_
 
 2.1.2 Lessons for Scientific Psychology from Descartes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
