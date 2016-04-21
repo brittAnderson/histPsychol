@@ -67,6 +67,9 @@ To productively study the history of a topic, especially if you wish to apply th
    the science of behavior and mental processes --- Psychology (10th Edition) 2013
    #+End_quote
 
+* Whats in a name :noexport:
+  Enter something about the story of Psyche and Eros to say where the word comes from. 
+
 * Some comments
    
 As we shall see scientific psychology commences in the 1800s. Its origins are firmly established by those who want to connect physiological procedures and the physiologist's rigor with the psycho-physical principles of Fechner. Can we measure a thought they way we measure mass? Weight is how heavy things feel. Fechner claimed to have a procedure by which psychological intensity could be quantified, and related to physical intensity. If so, could we use this insight to develop a true science[fn:science] of inner experience? 
