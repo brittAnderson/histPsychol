@@ -68,6 +68,10 @@ From ancient times the mind of man was linked with his spiritual aspect, that is
 
 We can also learn the lesson of humility. Despite his greatness Descartes made obvious mistakes. Mistakes not only obvious with hindsight, but mistakes that should have been apparent to him if he had not been driven by the need to confirm his opinions, but rather to test them. Having decided that mind and brain were two distinct, but interacting, substances he felt compelled to offer details of their communication. His hydraulic account of muscular action is not too implausible. Muscles seem to swell when used, perhaps they become engorged by some routed fluid he proposed. Given the hydraulic fountain and automata of his day that seems a reasonable conjecture. But where did the control of these fluids come from, and how could this non-physical mind interact to direct this physical flow? Descartes persisted in pushing his hydraulic account ever higher until we are forced to consider minute lacunae (too small to be observed) that are affected by minute (too small to be observed) vibrations of a central cerebral structure, the pineal gland, which seems to have been selected based more on aesthetic considerations than rational ones. The pineal gland was the location where mind influenced brain, and from whereon all was physics and fluids. But if the pineal gland is the special organ of thought, and if only man (and none of the lower animals) possess this faculty then there should be no particular reason to find pineal glands littered about in all the mammals, including oxen, the exact creatures that Descartes dissected to procure his eyes. He knew the animals had pineal glands, yet he omitted to confront this challenge to his account. 
 
+#+Caption: Descartes depicts the pineal and its fluidic vibrations Downloaded from [[https://archive.org/stream/bub_gb_Tiv_Wt6uae0C#page/n99/mode/2up][Treatise on Man Archive.org]]
+#+Attr_rst: :alt Pineal Gland  :width 400 :align center
+[[file:images/descartesPineal.png]]
+
 
 * iamhere :noexport:
 
