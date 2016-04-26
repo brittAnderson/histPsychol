@@ -20,7 +20,6 @@ In looking to the stories of Descartes and Locke we see early statements of the 
 Descartes was a genius and polymath. His inclusion here rests not on the content of his substance dualist claim that mind and matter were two different things, but on the fact that in making this claim he was pulling together the topics of introspective philosophy and physiology. Descartes maintained that matter was physical, and the mind was not. They were two substances (/Res cogitans/ and /Res extensa/) yet they interacted. Mind could influence matter and thus thought could determine behavior. In this rapprochement between brain and spirit Descartes presages the creation of a science of psychology which will take thought and its physical basis as its content. 
 
 Descartes is also relevant for his metaphysics. He famously [[https://archive.org/stream/discoursdel00desc#page/22/mode/2up/search/"je+pense+donc+je+suis"][proposed]] /Je pense, donc je suis/. I think therefore I am.[fn:cogito] His method of doubt, and the specific conclusions he reached from employing it may be more pertinent to epistemology, but for scientific psychology they demonstrate the critical use of introspection. Descartes imagined some trickster was deluding his senses. What was it he could believe given the risk of this deceiving demon? We have all been deceived by dreams and illusions - at least momentarily. Given that, is it not possible that all is illusion? That all we perceive is false. That all we know is wrong. No, replied Descartes. There is always something that thinks, and that is constant in its identity across time. I think. Therefore I am. There can be no doubt of this concludes Descartes (and many others). It is an example of the careful use of one's own internal conscious representations and reasonings as the basis for a scientific claim. This will be the method most central to early scientific psychology, and we can take this example of its early deployment as a herald for the scientific psychology to follow. 
-
 *** Some Biography[fn:descartesBio]
 
 If the above show how the ideas of Descartes, his rationality and his use of introspection, indicate the science yet to come, we can also see in Descartes' life the practices that would be developed to support all the sciences including psychology. 
@@ -62,7 +61,6 @@ To provide himself a home and a salary Descartes contracted to tutor Queen Chris
 His accomplishments though bred fame, and the French ambassador cut off a finger of Descartes corpse for a souvenir. A lead casket was sent from France to return the great man's remains, but being too short they left his head behind. 
 Fortunately it has been found (since 1821). 
 
-
 *** Lessons for Scientific Psychology from Descartes
 From ancient times the mind of man was linked with his spiritual aspect, that is his soul. When  empirical practices were more widely adopted, and combined with improved practical technical skills the arts and sciences flourished in what we call the Renaissance. In this milieu a person of Descartes great intellectual ability could contribute to multiple fields including math and neuroscience. He could also elaborate a view of mental philosophy that provided a rational argument for ones' mental existence, and he could also provide a paradigm in which the mental and physical were separate, but interactive so that both a knowledge of the nervous system and a knowledge of mental structure would be necessary for a complete understanding of human psychology. 
 
@@ -73,26 +71,68 @@ We can also learn the lesson of humility. Despite his greatness Descartes made o
 [[file:images/descartesPineal.png]]
 
 
+*** tl;dr Descartes
+Rene Descartes links the mind to the brain through his philosophy, analysis, and empirical investigations of the nervous system. His rational, dualist account can be seen as one side of the philosophical coin from which a scientific psychology will develop.
+
+** John Locke (1632 - 1704)
+
+*** Some Biography[fn:lockeBio]
+Similar to Descartes, Locke had lawyers in the background. He was middle class, and it was through patronage that he could attend [[https://www.westminster.org.uk/][Westminster school]]. Locke's father had fought on the side of the Puritans, and it is possible that Locke may have witnessed the beheading of Charles the First.  Ability came to his aid and he was able to attend Oxford on scholarship.  
+
+Locke studied medicine. Several of the founders of scientific psychology were medical men by training, if not by practice. 
+
+#+ATTR_RST: :margin 4
+#+BEGIN_QUOTE
+Discussion Question:
+
+Why should it be the case that so many early scientific psychologists would have been trained in medicine when, as we shall see, very little of early scientific psychology had anything to do with clinical care?
+#+END_QUOTE
+
+It appears that Locke may have been a bit of a dilettante. As was stated above, this was not only an interesting era for philosophy, but for science generally. There was a move to the practical and away from didactic teaching from authority. This had been the standard medical education for hundreds of years, but during, and maybe in part because of, the unrest in England at this time and its effects on Oxford. [[http://www.nature.com/nrn/journal/v5/n4/full/nrn1369.html][Thomas Willis]] began to demonstrate a more practical, empirical approach to medicine; an approach that appeals to Locke. 
+
+British science is institutionalizing too. The Royal Society is founded in 1660. It appears that Locke's future was secured when he assisted in the successful drainage of liver cyst for Lord Ashley (1668). An interesting side note is that the Lord wore a silver drainage tube thereafter. We know know that metallic silver has antimicrobial effects, and this could have contributed to the longevity and success of the surgery. 
+
+Perhaps courageously, perhaps unwisely Locke chose a time of civil war and beheaded kings to write a rather opiniated treatise on government. And as a result of the these turbulent times Locke decided it was worthwhile to find somewhere other than England to live and work for awhile. He decided Holland (as had Descartes). Following his return from exile Locke publishes [[https://archive.org/stream/1753essayconce01lockuoft#page/n3/mode/2up][An Essay Concerning Human Understanding]] [fn:essayHumUnd], which is what we can take to be one of the important antecedent documents for what will become a science of psychology. 
+
+Locke's last years did not have the drama of Descartes, but he shared in the discomfort. Locke had some sort of lung disease that made it difficult for him to bear the air of London in any but the better months of spring and summer. 
+*** Lessons for Scientific Psychology from Locke
+Locke's empirical approach to mind is echoed by the philosophers, such as John and James Mill, who will argue for a /science/ of the mind, and the emphasis on sensations and images is at the heart of scientific psychology's first theoretical movement: structuralism. 
+
+For understanding contemporary psychology it is perhaps not too important to be concerned with the nuances of Locke's mental philosophy, but a few high level and elementary points may serve useful for seeing how his ideas permeate common conceptions. 
+
+#+Attr_rst: :margin 4
+#+Begin_quote
+Discussion Question:
+
+Locke's philosophy is called empiricism. What is the difference between empiricism, positivism, and experimentalism?
+#+End_quote
+
+One of Locke's most important points is one of his earliest. 
+
+#+Attr_rst: :margin 4
+#+Begin_quote
+Let us suppose the Mind to be, as we say, white Paper [fn:tabulaRasa], void of all Characters, without any /Ideas/; How comes it to be furnished? Whence comes it by that vast Store, which the busy and boundless Fancy of Man has painted on it, with an almost enless Variety? ... To this, I answer, in a word, from /Experience/; [[https://archive.org/stream/1753essayconce01lockuoft#page/76/mode/2up/search/paper][Book II]]
+#+End_quote
+
+#+Attr_rst: :margin 4
+#+Begin_quote
+Discussion Question:
+
+How does this position differ from Descartes'?
+#+End_quote
+
+This furnishing according to Locke comes because we observe outside things and inside things. The outside things are the things in the world, rocks and the like, while the inside things are our own thoughts and ideas. The former might be called sensations, and the latter reflections. There are simple ideas and complex ideas the latter being made from the former. The sensations we have of objects can inhere in the objects themselves, such as their position, and such sensations are primary, but our sensations can also be secondary by virtue of depending on us. The color of the rock is not inherent in the rock, but comes from my observation of it. 
+
+This should be sufficient to see how Locke's ideas feed the idea of a science. Scientists observe. For Locke our minds are the products of a process of observation combined with a capacity for reflection. There is nothing there aught what a experience puts into it. Because the mental is derived from the physical some obvious and strong predictions can be made. 
+
+#+Attr_rst: :margin 4
+#+Begin_quote
+Do you understand?
+
+Write about @@rst::ref:`exMolyneux`@@
+#+End_quote
 * iamhere :noexport:
-
-need to sum up Descartes section than on to locke
-
-** Q2
-
-** Julien Offray de La Mettrie (1709 - 1751)
-b. St Malo just like Jacques Cartier.  Physician. Begins the use of observation to inform psychology and argues for the physical nature of thought. Uses his personal clinical experience of a delirium from fever.  Challenged Descartes on separation from animal to man. Offered to turn a gorilla into a little gentleman with time (Savage-Rumbaugh and other monkey ape language studies).  Died of over indulgence (too many truffles). 
-** Empiricism
-** Q3
-*** What is the difference between science and empiricism?
-    Contrast the way empirical was used then and how it was not the same as experimental.  Emphasize the contrast to innate knowledge and the conception of a blank slate.  Also the development of association psychology.
-** Thomas Hobbes (1588- 1679). 
-Most famous for his work Leviathan, on principles of proper government.  Often quoted for his line that there is nothing in the mind of man that was not begotten by the organs of sense.  Acts as a stimulus to Locke.
-** Q4 What is the tabula rasa and where does the term originate?
-Although the tabula rasa term comes from Aristotle, the notion of a blank slate is established in Locke.  There is NO innate knowledge, not even of God. Everything comes from the senses.  Reflection is the operation of the mind upon the senses. The word is carefully chosen; think of a mirror.  
-** Locke (1632 - 1704)
-*** Bio
-Attends Westminster school, possibly witnesses the beheading of Charles the First.  Goes to Oxford on Scholarship.  Studies medicine. A bit of a dilettante.  More attracted to the practical approach of Thomas Willis than the classical education. British science is going through its own growth at this time with the Royal Society.  He drains Lord Ashley's liver cyst and they become associates.  He works for Lord Ashley.  Writes about government and when Ashley falls from favor joins him in Holland.  Most famous work is an essay concerning human understanding.
-
+*** tl;dr Locke
 *** For Locke there are two sources of knowledge. What are they? 
 sensation and reflection
 *** What distinguishes a simple idea?
@@ -102,59 +142,75 @@ You could argue that he was. He was familiar with the ideas of reward and punish
 ** Q5
 *** What are some arguments against the blank slate theory of human knowledge (and what is the philosophical term that describes the study of the limits, nature, and origin of human knowledge)?
 **** epistemology
-** Auguste Comte. 
-founder of positivism. Only things that can be known are those which can be observed.  Denies possibility of a scientific psychology because mind cannot observe itself.
-** George Berkeley
-Irish, wants to found college (Bermuda), Rhode Island, UC school named for him, donates books to Yale and Harvard. Young cocky character. Extreme empiricism. Nothing exists unless it is perceived. Therefore, denies Locke's primary qualities.  Does important work on vision especially that having to do with depth perception, but not clear actually doing anything we would call an experiment.  
-** Some discussion of empirical thought
-** What is the difference between a primary and a secondary quality?
-Primary qualities are those that are inherent in the object itself, such as motion, whereas secondary qualities are those in the observer, such as color.  Simple sensations are indivisible, where as complex sensation are combinations, e.g. the color, feel, appearance and scent of the rose.
-** David Hume (1711 - 1776) 
-Scottish. goes further than Berkeley to deny that we can even know God or that anything exists. Cause and effect isn't know it is just inferred from experience.  Great emphasis on the association of ideas.  resemblance, contiguity, compare to Aristotle's ideas and, for memory, those of Ebbinghaus when we get there.  
-** Immanuel Kant (1724 - 1804). 
-German, Königsberg.  celibate. never more than 50 km from home. Very regimented life.  Response to radical empiricism. Argues that some things (especially the concepts of space and time) are known a priori.  Only those sciences that can be deduced from a priori concepts and mathematized, like physics, can be real sciences. Therefore psychology cannot, nor can chemistry.  Did admit an informal science. Talked of ``anthropology.'' Thought some things might be done with the intensity of sensations.
-** David Hartley.  (1705 - 1757) 
-Minister's son.  disagreed with church doctrine on eternal damnation and so decided to become a doctor instead of a minister.  rejected Descartes notion of hollow tubes for vibrating strings.  (what happens when you pluck a string of a guitar?) - what happens if you stare at a candle and close your eyes.  After image demo and discussion.  [[http://visualiseur.bnf.fr/ark:/12148/cb32786820s/date1765][D'Arcy]]: hot coal swung in a circle, fuses to a circle, the speed used to estimate neural processing time.  
-** Alexander Bain (1818 - 1903) 
-poor origins.  works in a Scottish textile mill, but teaches himself Latin and mathematics and escapes the mill to go self supported to college. mostly a writer. founds Mind the first journal devoted to psychology, but primarily philosophical.  Like Hartley he develops a psychology based on physiological principles.  Observations of new born lambs random motions to locate the teat for suckling.  
 
-** Questions
-*** Make a case for which of these we should call the first psychologist.
-*** What did Locke believe to be the source of all knowledge?
-**** sensation and reflection --- what is the difference?
- Notice that Locke distinguished sensation and reflection by reference to their objects. We acquire ideas of sensation through the causal operation of external objects on our sensory organs, and ideas of reflection through the "internal Sense" that is awareness of our own intellectual operations. As the rest of Book II is designed to show, these two sources provide us with all of the ideas we can ever have. [Essay II i 3-5] 
-*** How did Locke's ideas contrast with those of Descartes' concerning the source or origin of human knowledge?
-**** Locke believe we learned EVERYTHING through experience. Descartes was a rationalist. At the base, all knowledge grew out of a fundamental, inherent, truth. The source of all knowledge was not experience, but human rationality and thought. Je pense donc Je suis.
-*** Why is the work of /empirical philosophy/ relevant for the development of scientific psychology?
- - empiricism emphasized /mental/ constructs
- - it related physical experiences to mental content
-*** What was the date and author of the first North American textbook of Psychology?
- - 1827
- - [[https://en.wikipedia.org/wiki/Thomas_Cogswell_Upham][Thomas Upham]]
- - [[https://en.wikipedia.org/wiki/Bowdoin_College#Founding_and_19th_century][Bowdoin]]
- - [[http://archive.org/stream/elementsofintell00upha#page/n9/mode/2up][Online Reading of Thomas Upham's Textbook]]
- - 57 editions over a 73 year period.
-*** [[http://plato.stanford.edu/entries/wittgenstein/][Ludwig Wittgenstein]] is one of the most famous philosophers of the 20th century. 
-**** What form of philosophy is he most strongly associated with?
-***** Analytical philosophy
-**** What is the only "psychology" book that he kept upon his shelves?
-***** [[http://www.jstor.org/stable/27744632?seq%3D1][What Wittgenstein Learned from William James]]
-**** Why was Wittgenstein interested in this [[http://socrates.berkeley.edu/~kihlstrm/JastrowDuck.htm][picture]]?
-     - Read about Wittgenstein's interpretation by search [[http://plato.stanford.edu/entries/mental-imagery/quasi-pictorial][here]].
+** Some other guys worth knowing about
+*** Auguste Comte. 
+ founder of positivism. Only things that can be known are those which can be observed.  Denies possibility of a scientific psychology because mind cannot observe itself.
+*** George Berkeley
+ Irish, wants to found college (Bermuda), Rhode Island, UC school named for him, donates books to Yale and Harvard. Young cocky character. Extreme empiricism. Nothing exists unless it is perceived. Therefore, denies Locke's primary qualities.  Does important work on vision especially that having to do with depth perception, but not clear actually doing anything we would call an experiment.  
+*** Some discussion of empirical thought
+*** What is the difference between a primary and a secondary quality?
+ Primary qualities are those that are inherent in the object itself, such as motion, whereas secondary qualities are those in the observer, such as color.  Simple sensations are indivisible, where as complex sensation are combinations, e.g. the color, feel, appearance and scent of the rose.
+*** David Hume (1711 - 1776) 
+ Scottish. goes further than Berkeley to deny that we can even know God or that anything exists. Cause and effect isn't know it is just inferred from experience.  Great emphasis on the association of ideas.  resemblance, contiguity, compare to Aristotle's ideas and, for memory, those of Ebbinghaus when we get there.  
+*** Immanuel Kant (1724 - 1804). 
+ German, Königsberg.  celibate. never more than 50 km from home. Very regimented life.  Response to radical empiricism. Argues that some things (especially the concepts of space and time) are known a priori.  Only those sciences that can be deduced from a priori concepts and mathematized, like physics, can be real sciences. Therefore psychology cannot, nor can chemistry.  Did admit an informal science. Talked of ``anthropology.'' Thought some things might be done with the intensity of sensations.
+*** David Hartley.  (1705 - 1757) 
+ Minister's son.  disagreed with church doctrine on eternal damnation and so decided to become a doctor instead of a minister.  rejected Descartes notion of hollow tubes for vibrating strings.  (what happens when you pluck a string of a guitar?) - what happens if you stare at a candle and close your eyes.  After image demo and discussion.  [[http://visualiseur.bnf.fr/ark:/12148/cb32786820s/date1765][D'Arcy]]: hot coal swung in a circle, fuses to a circle, the speed used to estimate neural processing time.  
+*** Alexander Bain (1818 - 1903) 
+ poor origins.  works in a Scottish textile mill, but teaches himself Latin and mathematics and escapes the mill to go self supported to college. mostly a writer. founds Mind the first journal devoted to psychology, but primarily philosophical.  Like Hartley he develops a psychology based on physiological principles.  Observations of new born lambs random motions to locate the teat for suckling.  
 
-    
+*** Questions
+**** Make a case for which of these we should call the first psychologist.
+**** What did Locke believe to be the source of all knowledge?
+***** sensation and reflection --- what is the difference?
+  Notice that Locke distinguished sensation and reflection by reference to their objects. We acquire ideas of sensation through the causal operation of external objects on our sensory organs, and ideas of reflection through the "internal Sense" that is awareness of our own intellectual operations. As the rest of Book II is designed to show, these two sources provide us with all of the ideas we can ever have. [Essay II i 3-5] 
+**** How did Locke's ideas contrast with those of Descartes' concerning the source or origin of human knowledge?
+***** Locke believe we learned EVERYTHING through experience. Descartes was a rationalist. At the base, all knowledge grew out of a fundamental, inherent, truth. The source of all knowledge was not experience, but human rationality and thought. Je pense donc Je suis.
+**** Why is the work of /empirical philosophy/ relevant for the development of scientific psychology?
+  - empiricism emphasized /mental/ constructs
+  - it related physical experiences to mental content
+**** What was the date and author of the first North American textbook of Psychology?
+  - 1827
+  - [[https://en.wikipedia.org/wiki/Thomas_Cogswell_Upham][Thomas Upham]]
+  - [[https://en.wikipedia.org/wiki/Bowdoin_College#Founding_and_19th_century][Bowdoin]]
+  - [[http://archive.org/stream/elementsofintell00upha#page/n9/mode/2up][Online Reading of Thomas Upham's Textbook]]
+  - 57 editions over a 73 year period.
+**** [[http://plato.stanford.edu/entries/wittgenstein/][Ludwig Wittgenstein]] is one of the most famous philosophers of the 20th century. 
+***** What form of philosophy is he most strongly associated with?
+****** Analytical philosophy
+***** What is the only "psychology" book that he kept upon his shelves?
+****** [[http://www.jstor.org/stable/27744632?seq%3D1][What Wittgenstein Learned from William James]]
+***** Why was Wittgenstein interested in this [[http://socrates.berkeley.edu/~kihlstrm/JastrowDuck.htm][picture]]?
+      - Read about Wittgenstein's interpretation by search [[http://plato.stanford.edu/entries/mental-imagery/quasi-pictorial][here]].
+
+       
+
+*** Q2
+
+*** Julien Offray de La Mettrie (1709 - 1751)
+ b. St Malo just like Jacques Cartier.  Physician. Begins the use of observation to inform psychology and argues for the physical nature of thought. Uses his personal clinical experience of a delirium from fever.  Challenged Descartes on separation from animal to man. Offered to turn a gorilla into a little gentleman with time (Savage-Rumbaugh and other monkey ape language studies).  Died of over indulgence (too many truffles). 
+*** Empiricism
+*** Q3
+**** What is the difference between science and empiricism?
+     Contrast the way empirical was used then and how it was not the same as experimental.  Emphasize the contrast to innate knowledge and the conception of a blank slate.  Also the development of association psychology.
+*** Thomas Hobbes (1588- 1679). 
+ Most famous for his work Leviathan, on principles of proper government.  Often quoted for his line that there is nothing in the mind of man that was not begotten by the organs of sense.  Acts as a stimulus to Locke.
+*** Q4 What is the tabula rasa and where does the term originate?
+ Although the tabula rasa term comes from Aristotle, the notion of a blank slate is established in Locke.  There is NO innate knowledge, not even of God. Everything comes from the senses.  Reflection is the operation of the mind upon the senses. The word is carefully chosen; think of a mirror.  
 
 
 
 
-
-*** NeoPlatonism						   :noexport:
- - [[http://youtu.be/UxjXSnF6tgE][William Lyall, the first Canadian textbook of Psychology, and neoplatonism]]
- - [[http://www.bbc.co.uk/programmes/b01g62w1][In our time podcast: neoplatonism]]
- - [[https://archive.org/details/intellecttheemot00lyaluoft][William Lyall's Textbook]]
+**** NeoPlatonism						   :noexport:
+  - [[http://youtu.be/UxjXSnF6tgE][William Lyall, the first Canadian textbook of Psychology, and neoplatonism]]
+  - [[http://www.bbc.co.uk/programmes/b01g62w1][In our time podcast: neoplatonism]]
+  - [[https://archive.org/details/intellecttheemot00lyaluoft][William Lyall's Textbook]]
 
 * Footnotes
-
+[fn:tabulaRasa] Although it is incredibly common to refer to Locke's claim as saying that the mind was a /tabula rasa/ (or a blank slate). That terminology actually comes from Aristotle's /De Anima/. 
+[fn:essayHumUnd] There are several copies of this on the archive.org website. This one has a nice picture of the author and looks impressively old. 
+[fn:lockeBio] The Stanford Encyclopedia of Philosophy (an excellent resource) has a nice biography of [[http://plato.stanford.edu/entries/locke/][Locke]].
 [fn:zeitgeist] [[https://en.wikipedia.org/wiki/Zeitgeist][What does the word Zeitgeist mean?]]
 [fn:behavior] In a way one could see the behaviorism of the early 20th century as a continuation of the Cartesian program, but this time expanded to include humanity along with the brutes.
 [fn:army] [[http://www.military-history.org/articles/thinkers-at-war-wittgenstein.htm][Wittgenstein too volunteered for the army]]. What is it with famous philosophers and enlistment? This same [[http://www.military-history.org/articles/thinkers-at-war-descartes.htm][website]] has a nice article about Descartes military experience.
