@@ -6,3 +6,14 @@
 ** Granville Stanley Hall
 
 ** William James
+
+
+
+**** [[http://plato.stanford.edu/entries/wittgenstein/][Ludwig Wittgenstein]] is one of the most famous philosophers of the 20th century. 
+***** What form of philosophy is he most strongly associated with?
+****** Analytical philosophy
+***** What is the only "psychology" book that he kept upon his shelves?
+****** [[http://www.jstor.org/stable/27744632?seq%3D1][What Wittgenstein Learned from William James]]
+***** Why was Wittgenstein interested in this [[http://socrates.berkeley.edu/~kihlstrm/JastrowDuck.htm][picture]]?
+      - Read about Wittgenstein's interpretation by search [[http://plato.stanford.edu/entries/mental-imagery/quasi-pictorial][here]].
+

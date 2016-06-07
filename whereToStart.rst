@@ -112,46 +112,125 @@ Rene Descartes links the mind to the brain through his philosophy, analysis, and
 
 Similar to Descartes, Locke had lawyers in the background. He was middle class, and it was through patronage that he could attend `Westminster school <https://www.westminster.org.uk/>`_. Locke's father had fought on the side of the Puritans, and it is possible that Locke may have witnessed the beheading of Charles the First.  Ability came to his aid and he was able to attend Oxford on scholarship.  
 
-Locke studied medicine. Several of the founders of scientific psychology were medical men by training, if not by practice. 
+Locke studied medicine. Several of the founders of scientific psychology were medical men by training, if not by practice. For example we will see that Helmholtz, Munsterberg, and Broca, among others, were trained as medical men first. Some of this was probably an artifact of the education system of the time, but it is also interesting to wonder how the early approach to psychology as a science might have been shaped by this clinical perspective and training, and why then, apparently paradoxically, what we consider as "mental" illness was not a popular topic for psychological research? Although, `Kraepelin <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2927892/>`_, the father of modern psychiatry, was Wundt trained, he was not practically speaking an experimental psychologist. 
 
-    Discussion Question:
+2.2.1.1 Discussion Question
+:::::::::::::::::::::::::::
 
     Why should it be the case that so many early scientific psychologists would have been trained in medicine when, as we shall see, very little of early scientific psychology had anything to do with clinical care?
 
-It appears that Locke may have been a bit of a dilettante. As was stated above, this was not only an interesting era for philosophy, but for science generally. There was a move to the practical and away from didactic teaching from authority. This had been the standard medical education for hundreds of years, but during, and maybe in part because of, the unrest in England at this time and its effects on Oxford. `Thomas Willis <http://www.nature.com/nrn/journal/v5/n4/full/nrn1369.html>`_ began to demonstrate a more practical, empirical approach to medicine; an approach that appeals to Locke. 
+It appears that Locke may have been a bit of a dilettante mingling his interests in natural philosophy with those of politic philosophy. His medical training took place at a time when there was a move away from didactic education to practical training. It may seem odd now, but one once learned how to practice medicine by reading books in Latin. But the years of political upheaval and unrest in England provided some diversion and allowed for new developments in medical education. Thomas Willis [9]_  was the apparent founder of this approach to be more practical and empirical in medicine. This approach may have appealed to Locke and informed his views more generally. At the time Locke was being educated and working British science was also institutionalizing. `The Royal Society <https://royalsociety.org/>`_ was founded in 1660. 
 
-British science is institutionalizing too. The Royal Society is founded in 1660. It appears that Locke's future was secured when he assisted in the successful drainage of liver cyst for Lord Ashley (1668). An interesting side note is that the Lord wore a silver drainage tube thereafter. We know know that metallic silver has antimicrobial effects, and this could have contributed to the longevity and success of the surgery. 
+For Locke personally, it appears that his future was secured when he assisted in the successful drainage of the liver cyst of Lord Ashley (1668). An interesting side note is that the Lord wore a silver drainage tube thereafter. We know know that metallic silver has antimicrobial effects, and this could have contributed to the longevity and success of the surgery. 
 
-Perhaps courageously, perhaps unwisely Locke chose a time of civil war and beheaded kings to write a rather opiniated treatise on government. And as a result of the these turbulent times Locke decided it was worthwhile to find somewhere other than England to live and work for awhile. He decided Holland (as had Descartes). Following his return from exile Locke publishes `An Essay Concerning Human Understanding <https://archive.org/stream/1753essayconce01lockuoft#page/n3/mode/2up>`_  [9]_ , which is what we can take to be one of the important antecedent documents for what will become a science of psychology. 
+Perhaps courageously, perhaps unwisely, Locke chose a time of civil war and beheaded kings to write a rather opiniated treatise on government. And as a result of the these turbulent times Locke decided it was worthwhile to find somewhere other than England to live and work for awhile. He decided on Holland (as had Descartes). Following his return from exile Locke published `An Essay Concerning Human Understanding <https://archive.org/stream/1753essayconce01lockuoft#page/n3/mode/2up>`_  [10]_ , which is what we can take to be one of the important antecedent documents for what will become a science of psychology. 
 
-Locke's last years did not have the drama of Descartes, but he shared in the discomfort. Locke had some sort of lung disease that made it difficult for him to bear the air of London in any but the better months of spring and summer. 
+Locke's last years did not have the drama of Descartes, but they both shared discomfort in the end. Locke had some sort of lung disease that made it difficult for him to bear the air of London in any but the better months of spring and summer. He died in 1704 and was buried in `Essex <https://en.wikipedia.org/wiki/High_Laver#cite_note-5>`_. 
 
 2.2.2 Lessons for Scientific Psychology from Locke
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Locke's empirical approach to mind is echoed by the philosophers, such as John and James Mill, who will argue for a *science* of the mind, and the emphasis on sensations and images is at the heart of scientific psychology's first theoretical movement: structuralism. 
+Locke's empirical approach to mind is echoed by the philosophers, such as John and James Mill, who will argue for a *science* of the mind, and emphasize on sensations and images as the core materials from which a mind is built. This notion of simple elements combined to make complex mental constructs is not an accidental metaphor. The first true theoretical movement in scientific psychology will be *structuralism*.
 
-For understanding contemporary psychology it is perhaps not too important to be concerned with the nuances of Locke's mental philosophy, but a few high level and elementary points may serve useful for seeing how his ideas permeate common conceptions. 
+This contrast of Locke's nascent structuralism with Descartes rationalism is useful for examining many issues in contemporary psychology. 
 
-    Discussion Question:
+2.2.2.1 Discussion Question
+:::::::::::::::::::::::::::
 
     Locke's philosophy is called empiricism. What is the difference between empiricism, positivism, and experimentalism?
 
-One of Locke's most important points is one of his earliest. 
+One of Locke's most important points for scientific psychology is one of the first ones he makes in his Essay. 
 
-    Let us suppose the Mind to be, as we say, white Paper  [10]_ , void of all Characters, without any *Ideas*; How comes it to be furnished? Whence comes it by that vast Store, which the busy and boundless Fancy of Man has painted on it, with an almost enless Variety? ... To this, I answer, in a word, from *Experience*; `Book II <https://archive.org/stream/1753essayconce01lockuoft#page/76/mode/2up/search/paper>`_
+    Let us suppose the Mind to be, as we say, white Paper  [11]_ , void of all Characters, without any *Ideas*; How comes it to be furnished? Whence comes it by that vast Store, which the busy and boundless Fancy of Man has painted on it, with an almost enless Variety? ... To this, I answer, in a word, from *Experience*; `Book II <https://archive.org/stream/1753essayconce01lockuoft#page/76/mode/2up/search/paper>`_
 
-    Discussion Question:
+2.2.2.2 Discussion Question
+:::::::::::::::::::::::::::
 
     How does this position differ from Descartes'?
 
 This furnishing according to Locke comes because we observe outside things and inside things. The outside things are the things in the world, rocks and the like, while the inside things are our own thoughts and ideas. The former might be called sensations, and the latter reflections. There are simple ideas and complex ideas the latter being made from the former. The sensations we have of objects can inhere in the objects themselves, such as their position, and such sensations are primary, but our sensations can also be secondary by virtue of depending on us. The color of the rock is not inherent in the rock, but comes from my observation of it. 
 
-This should be sufficient to see how Locke's ideas feed the idea of a science. Scientists observe. For Locke our minds are the products of a process of observation combined with a capacity for reflection. There is nothing there aught what a experience puts into it. Because the mental is derived from the physical some obvious and strong predictions can be made. 
+See how Locke's ideas merge with our modern idea of what it means for something to be a science.  Scientists observe. For Locke our minds are the products of a process of observation combined with a capacity for reflection. There is nothing there aught what experience puts into it. Because the mental is derived from the physical some obvious and strong predictions can be made. 
+
+2.2.2.3 Writing Assignment - Molyneux
+:::::::::::::::::::::::::::::::::::::
 
     Do you understand?
 
     Write about :ref:`exMolyneux`
+
+2.2.3 tl;dr Locke
+^^^^^^^^^^^^^^^^^
+
+Where Descartes represents the rational approach to human psychology: we are thinkers who can rely on native dispositions to deduce true states about our mental life; Locke represents the empiricist counterweight. He are born with no native ideas. We are blank and then stamped by simple sensations that we elaborate through experience and reflection into ever more complex mental constructions. 
+
+2.2.3.1 Discusion Questions
+:::::::::::::::::::::::::::
+
+1. For Locke there are two sources of knowledge. What are they?
+
+2. What distinguishes a simple idea?
+
+3. Was Locke a behaviorist?
+
+4. What are some arguments against the blank slate theory of human knowledge (and what is the philosophical term that describes the study of the limits, nature, and origin of human knowledge)?
+
+5. What is the difference between a primary and a secondary quality?
+
+2.3 Other names - Other stories
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The selection of Locke and Descartes to anchor the story of experimental psychology's beginning has the purpose of highlighting and emphasizing two different background ideas that we can see throughout psychology's history, but it is of course absurd to suppose that only these two men were relevant for the beginning of a scientific psychology. The following are a few more of the interesting names and personalities that also inform psychology's origins. 
+
+2.3.1 Auguste Comte: The brain is the organ whereby dead people act on living ones
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The founder of `positivism <http://plato.stanford.edu/entries/comte/>`_. While he stands with Locke on the fact that observation and verification are keys for scientific knowledge this leads him to  argue that a scientific psychology is impossible because the mind cannot observe itself.
+
+2.3.2 George Berkeley: To be is to be perceived
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+An Irish philosopher he is classically linked with `Idealism <http://plato.stanford.edu/entries/berkeley/>`_. That is, we have no reason for believing that what we perceive in fact accords with real things that are "out there." What is real are only our perceptions.  Berkeley is a brilliant and interesting character, and his work on depth perception was `technically fine <https://archive.org/stream/newtheoryofvisio00geor#page/12/mode/2up>`_.  Among other activities he tries to `found a college in Bermuda <http://yalebooks.com/book/9780300113440/george-berkeley-america>`_. Some suggest that he was encouraged in this goal as a means of getting rid of him, which may explain the decline in support for the project after he disembarked, and why he then got stuck in Rhode Island and why his library ended up donated to Harvard and Yale.  The University California school "Berkeley" is named after him. And he inspired one of the best known efforts to refute a philosophical idea by `brute force <https://archive.org/stream/lifesamueljohns60boswgoog#page/n437/mode/2up/search/refute>`_. 
+
+2.3.3 David Hume (1711 - 1776)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Scottish. Hume goes even further than Berkeley to deny that we can really know much of anything. Even the `law of cause and effect <https://archive.org/stream/ezquiryconcernin010881mbp#page/n41/mode/2up/search/cause+and+effect>`_ is really simply inferred from experience.  Hume places great emphasis on the association of ideas, resemblance, and contiguity. It might be profitable to Hume with Aristotle's ideas on association and to then look at the memory work of Ebbinghaus for a potential application?  
+
+2.3.4 Immanuel Kant (1724 - 1804).
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A German who spent his entire life in Königsberg.  For reasons I never understood the fact that he was celibate `is frequently mentioned <https://philosophynow.org/issues/21/The_discarded_Lemon_Kant_prostitution_and_respect_for_persons>`_, and just to perpetuate the mystery I include that fact here. He lived a very regimented life.  His philosophy can be seen as a response to radical empiricism. Kant argues that some things (especially the concepts of space and time) are known a priori.  Only those sciences that can be deduced from a priori concepts and mathematized, like physics, can be real sciences. Therefore Kant joins a long line in suggesting that, therefore, psychology cannot be a science (but then again neither can chemistry).  Kant did admit a notion of an informal science, like anthropology that we might recognize more like psychology.
+
+2.3.5 Julien Offray de La Mettrie (1709 - 1751)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Born in St Malo just like Jacques Cartier (this means something to Canadians).  Another physician de La Mettrie takes an important step towards seeing our mental life as the result of biological processes. This drew on  his personal clinical experience of a delirium from fever.  He also challenged Descartes on the importance of any qualitative separation in the mental character of animals and man. He felt so strongly that he offered to turn a `monkey into a little man about town <https://archive.org/stream/lhommemachine00lame#page/58/mode/2up/search/langue>`_. And, in what seems to me an appropriately extravagant and French ending, he died from eating too many truffles.
+
+2.3.6 David Hartley.  (1705 - 1757)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+He was a minister's son. When you look at early psychologists and scientists those who were not educated as MDs often seem to have been the sons of parsons. Why is that? In any case Hartley disagreed with church doctrine on eternal damnation and so decided to become a doctor instead.  Hartley rejected Descartes notion of hollow tubes as the basis for neural communication and substituted instead the idea of vibrating strings. Think of what happens when you pluck one string of an instrument - you often see the others vibrate in resonance. This could be taken as a very early precursor to the ideas of oscillations in the nervous system? Continuing the same analogy of the vibrating string, after you pluck it it takes a while to fade away. Now imaging looking at a candle and then close your eyes. You see an after image that gradually fades away. The experience of the after image is very popular for early psychology. It is an example of a sense impression, or a perception, in the absence of an explicit physical stimulus and thus it posed a real puzzle for early psychological theorists. For example, `D'Arcy <http://visualiseur.bnf.fr/ark:/12148/cb32786820s/date1765>`_ swung a hot coal in a circle and used its  fusion into a circle to estimate neural processing time. There is also a long line of very smart people injuring themselves studying after images (Isaac Newton; Gustav Fechner; Kenneth Craik).
+
+2.3.7 Alexander Bain (1818 - 1903)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+We are getting to more recent times now. Bain was of poor origin, and worked his way up and out of a Scottish textile mill by teaching himself Latin and mathematics. He managed to support himself through college by his writing.  He founded one of the first psychology journals: `Mind <http://mind.oxfordjournals.org/>`_; though we might regard it today as more philosophical than scientific. Like Hartley he develops a psychology based on physiological principles and even begans to move from arm chair philosophizing to making empirical observations. His study of `suckling lambs <https://archive.org/stream/sensesintellectb00bain#page/404/mode/2up/search/lambs>`_ is a famous example. 
+
+2.4 Question for Review, Discussion, and a Scavanger Hunt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Make a case for whether Locke or Descartes should be considered the first true psychologist?
+
+2. How did Locke and Descartes differ in their opinions on the source of all knowledge?
+
+3. For Locke what is the difference between sensation and reflection?
+
+4. Why is the work of *empirical philosophy* relevant for the development of scientific psychology?
+
+5. What was the date and who was the author of the first North American textbook of Psychology?
+
+6. What is the difference between science and empiricism?
 
 
 .. [1] Two textbooks that give reasonably extended treatments of these ancient sources are `The Great Psychologists <http://www.alibris.com/The-Great-Psychologists-A-History-of-Psychological-Thought-Robert-Irving-Watson/book/23787480?matches=16>`_ by Robert I. Watson (which can be found very cheaply on line), and `Connections in the History and Systems of Psychology <http://www.amazon.com/Connections-History-Systems-Psychology-Michael/dp/0618415122>`_ by B. Michael Thorne and Tracy B. Henley, which is newer, but more expensive.
@@ -170,6 +249,8 @@ This should be sufficient to see how Locke's ideas feed the idea of a science. S
 
 .. [8] The Stanford Encyclopedia of Philosophy (an excellent resource) has a nice biography of `Locke <http://plato.stanford.edu/entries/locke/>`_.
 
-.. [9] There are several copies of this on the archive.org website. This one has a nice picture of the author and looks impressively old.
+.. [9] Thomas Willis is often thought of as the `founder of neuroscience <http://www.nature.com/nrn/journal/v5/n4/full/nrn1369.html>`_. He probably rendered the first clinical description of `myasthenia gravis <http://www.sciencedirect.com/science/article/pii/S0960896605002567>`_, and really impressed the locals when he appeared to bring a `woman back to life <http://www.jstor.org/stable/29509089%20>`_. That is a great advertisement for a physician. But mostly his advances seem to have rested on his documentation of the cases he saw, his collation of similar cases, and his continuity in seeing what happened to his patients over time.
 
-.. [10] Although it is incredibly common to refer to Locke's claim as saying that the mind was a *tabula rasa* (or a blank slate). That terminology actually comes from Aristotle's *De Anima*.
+.. [10] There are several copies of this on the archive.org website. This one has a nice picture of the author and looks impressively old.
+
+.. [11] Although it is incredibly common to refer to Locke's claim as saying that the mind was a *tabula rasa* (or a blank slate). That terminology actually comes from Aristotle's *De Anima*.

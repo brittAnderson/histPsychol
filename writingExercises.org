@@ -1,7 +1,7 @@
 #+Title: Writing Exercises
 #+Options: timestamp:nil num:nil
 * Overview
-There is only so much that one can learn by reading. At some point real mastery requires active learning, and this can be helped by expousing. We never learn so much as when we teach. My hope is that these writing exercises will provide readers with a chance to engage with the material in a concrete and time limited fashion.
+There is only so much that one can learn by reading. At some point real mastery requires active learning, and this can be helped by being forced to put your thinking into words. My hope is that these writing exercises will provide readers with a chance to engage with the material in a concrete and educational way.
 
 @@rst:.. _exMolyneux:@@
 * Molyneux
