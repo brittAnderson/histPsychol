@@ -13,4 +13,4 @@ Of course anyone wanting to clone the book for their own purposes is encouraged 
 
 ## Brief Note on the Process
 
-I write using emacs out of preference. Therefore, I have grown to know, and enjoy using the org-mode mark-up language. I  export to rst relying on the [ox-rst package](https://github.com/masayuko/ox-rst). Sometimes there still seems to need to be some native rst, but for the most part it works well. After that I test locally with sphinx-build2 -b html <source> <destination>. And when all seems to work right I push to github and rebuild on read the docs.
+I write using emacs out of preference. Therefore, I have grown to know, and enjoy using the org-mode mark-up language. I  export to rst relying on the [ox-rst package](https://github.com/masayuko/ox-rst). Sometimes there still seems to need to be some native rst, but for the most part it works well. After that I test locally with sphinx-build2 -b html <source> <destination> (actually I now do a `make html`). And when all seems to work right I push to github and rebuild on read the docs.
