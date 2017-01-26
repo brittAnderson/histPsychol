@@ -10,7 +10,7 @@ Writing Exercises
 Overview
 --------
 
-There is only so much that one can learn by reading. At some point real mastery requires active learning, and this can be helped by expousing. We never learn so much as when we teach. My hope is that these writing exercises will provide readers with a chance to engage with the material in a concrete and time limited fashion.
+There is only so much that one can learn by reading. At some point real mastery requires active learning, and this can be helped by (exposing/espousing). We never learn so much as when we teach. My hope is that these writing exercises will provide readers with a chance to engage with the material in a concrete and time limited fashion.
 
 .. _exMolyneux:
 
