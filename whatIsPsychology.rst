@@ -2,6 +2,7 @@
 What is Psychology?
 ===================
 
+    :Author: Britt Anderson
 
 .. contents::
 
@@ -12,9 +13,11 @@ What is Psychology?
 
 To productively study the history of a topic, especially if you wish to apply those lessons to contemporary practice, you must be clear on the nature of that topic in the first place. The answer to the question of what is psychology is not as easy as it might appear, and this is particularly true if you are relatively young or a newcomer. Psychology was not always as it appears today. While contemporary definitions reflect prevalence and practice they are not proscriptive or prescriptive. That means that you are free to apply an idiosyncratic definition, or emphasize older themes. In any of these cases you should decide exactly what it is you mean by the term psychology. That is the way to get the most practical and personally relevant information from your historical inquiry. Take a moment before reading on and write a one sentence definition of what psychology is. Then see how some others have defined it.
 
-.. raw:: pdf 
+.. RST::
 
-   Page Break
+    \.. aw:: pdf 
+
+    Page Break
 
 1.1 Aristotle
 ~~~~~~~~~~~~~
@@ -56,14 +59,19 @@ To productively study the history of a topic, especially if you wish to apply th
 
     the science of behavior and mental processes --- Psychology (10th Edition) 2013
 
-2 Some comments
+2 What’s in a name?
+-------------------
+
+“Psychology” comes from the Greek word “psyche” that means breath, life or soul and actually has an interesting myth tied to it. This myth depicts a great love story between Eros (Cupid in Latin), the son of Aphrodite and a mortal woman, named Psyche. In short, Psyche was considered to be the most beautiful mortal woman - even more beautiful than Aphrodite, the goddess of love and beauty. Out of jealousy, she sends her son to make Psyche fall in love with a terrible creature but accidentally scratches himself with his arrow with her in his sight. Eros falls in love with her, and after much trial and turbulence the two are wed and are no longer persecuted by Aphrodite. Psyche is made immortal and joins Eros in the sky.
+
+3 Some comments
 ---------------
 
 As we shall see scientific psychology commences in the 1800s. Its origins are firmly established by those who want to connect physiological procedures and the physiologist's rigor with the psycho-physical principles of Fechner. Can we measure a thought they way we measure mass? Weight is how heavy things feel. Fechner claimed to have a procedure by which psychological intensity could be quantified, and related to physical intensity. If so, could we use this insight to develop a true science [1]_  of inner experience? 
 
 Many early scientific psychologists soon found this definition limiting, but more critically they found it a failure. Early controversies about whether or not thought required images, or how many elemental sensations there were left many psychologists despairing that a definition of psychology that focused on the mental could ever be the basis of progress. In a quest for objectivity in measurement the focus shifted to behavior, and this emphasis on behavior is still present in today's textbook definitions.
 
-3 A Few Final Questions
+4 A Few Final Questions
 -----------------------
 
 Does equating the science of psychology with the study of behavior make its practitioners more scientific? Does it do so at the expense of making them no longer psychologists? If psychology were to return to a pre-occupation with the mental (though we can try to avoid facing that by referring to it as  *cognitive*) does that mean its practitioners are no longer doing science?
