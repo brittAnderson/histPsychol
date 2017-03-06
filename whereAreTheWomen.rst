@@ -3,6 +3,7 @@ Women in Psychology's Early Years
 =================================
 
     :Author: Britt Anderson
+    Sarah Young (Anna Berliner)
 
 .. contents::
 
