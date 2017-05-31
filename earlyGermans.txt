@@ -1,0 +1,138 @@
+	    ________________________________________________
+
+	     FOUNDING OF A SCIENTIFIC PSYCHOLOGY IN GERMANY
+
+			     Britt Anderson
+	    ________________________________________________
+
+
+Table of Contents
+_________________
+
+1 More than just Wundt
+.. 1.1 Herman Ebbinghaus (1850-1909)
+..... 1.1.1 Philip Boswood Ballard
+..... 1.1.2 Carl Stumpf
+..... 1.1.3 Georg Müller
+..... 1.1.4 Oswald Külpe
+
+
+
+
+
+1 More than just Wundt
+======================
+
+  Any date for the founding of experimental psychology will be
+  arbitrary. Selecting 1879 as the founding of the experimental
+  psychology laboratory at Leipizig emphasizes the introduction of
+  experimental tools, procedures, and an emphasis on testable theories
+  to the growing tradition of empirical thinking in mental and moral
+  philosophy. Similarly arbitrary is the annointing of one man as a
+  founder of experimental psychology. By naming Wilhelm Wundt to this
+  role we commemorate the founding of a laboratory psychology, but we
+  also emphasize a man who is known more for bureaucratic success than
+  scientific achievement. Many of the domains of psychology that are
+  dear to modern minds are ones that Wundt closed off as beyond
+  scientific approach. Memory assessements relying on words, poems, or
+  pictures were too contaminated by learned associations to be
+  effective, pure probes of conscious experience. A reliance on reaction
+  time showed the usefulness of new measurement devices, but Wundt was
+  not a keen experimentalist and was not innovative in new tools for
+  measurement or for expanding the domain of psychological study. And as
+  another consequence of his emphasis on a pure, near simultaneous,
+  report of conscious experience the entire domain of thought and
+  reasoning was beyond approach. For the same reason, experimental
+  subjects should be trained in introspection, but not in the content
+  about which they are introspecting, e.g. music. To study musical
+  perception required, according to Wundt, introspectors who were
+  musically naive. Wundt carried strong theoretical prejudices, which
+  often determined his scientific positions more than empircial
+  evidence. Convinced of the primacy of visual experience and images
+  Wundt labeled any evidence at variance with this idea to be
+  axiomatically the product of bad experimental technique.
+
+  It is clear then that by elevating Wundt to the role of founder of the
+  field, we are giving priority to one aspect of our science: its
+  development as an experimental discipline; but ignoring many other
+  aspects of its early development as a science. Through the examples of
+  some of Wundt's contemporaries we can see how early scientific
+  psychology was enriched by additional approaches and different
+  strengths. In this chapter four of these early German contemporaries
+  are highlighted.
+
+
+1.1 Herman Ebbinghaus (1850-1909)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  [./images/hermanEbbinghaus.jpg]
+  ,----
+  | python2 ./../demos/ebb.py
+  `----
+
+  [Ebbinghaus Method Video]
+
+
+  Ebbinghaus Memory Method
+
+  - ton
+
+  - lut
+
+  - zeg
+
+  - kac
+
+  - gom
+
+  - biv
+
+  - gud
+
+  - dar
+
+  - rul
+
+  Ebb Meth Comments His method was a real tour de force of insight and
+  effort. He conceived that by using nonsense syllables he would be able
+  to remove the effects of association, but that he would still be able
+  to apply something like the methods he had read about in Fechner's
+  book. He wrote out all these items on cards. He used a metronome to
+  present them at a controlled rate. He could draw from the box of cards
+  to get a random sample. He had only one subject, himself. He tried to
+  control all aspects of his life to make himself consistent in testing.
+  This led to his discovering the primacy effect, recency effect, the
+  span of memory and forgetting rates. Also demonstrated something
+  called the savings rate. You memorize a list and later on you see how
+  many trials it takes you to relearn the list. The decrease in the
+  number of trials is the savings. The change in savings rate over time
+  gave him a measure to use for determining how fast a memory trace is
+  weakening. Otherwise, you only have a measure of what you know and
+  what you don't. So you can see the combination of sheer hard work with
+  really innovative methods.
+
+
+[Ebbinghaus Method Video] https://youtu.be/TGGr5Uc8_Bw
+
+1.1.1 Philip Boswood Ballard
+----------------------------
+
+  Interesting tidbit mentioned by Thom Carr on a visit to Waterloo in
+  March 2017. Studied memory using poetry, and concluded that it could
+  get better after a gap. Here is the work:
+  [https://archive.org/stream/obliviscenceremi02ball#page/n14/mode/1up]
+
+  Of course it could well be stochastic. But I should look at this at
+  some point.
+
+
+1.1.2 Carl Stumpf
+-----------------
+
+
+1.1.3 Georg Müller
+------------------
+
+
+1.1.4 Oswald Külpe
+------------------
