@@ -59,6 +59,39 @@ While known for his memory work, a less appreciated contribution of Ebbinghaus w
 1.4 Oswald Külpe
 ~~~~~~~~~~~~~~~~
 
+The methodology of early psychology was restricted to a few basic procedures. Reaction time and psychophysical methods were standard, but the main probe for a science of consciousness and the mental was introspection. It was the subjective, personal, data that was to be explained, and there seemed little way to probe this experience without a participant's direct report. Early scientific psychologists were not ignorant of the problems this posed for research to be scientific, that is repeatable and consistent. For Wundt introspection was very constricted. There was to be an immediate report of the content of consciousness, not an interpretation, but the raw content. Such a practice constrained the reach of scientific psychology. Thinking and reasoning for example would not be amenable to such a narrow admission of introspective data. 
+
+1.4.1 Is there only one kind of introspection?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Different terms were used by the early German scientific psychologists for introspection: *Selbstbeobachtung* and *innere Wahrnemung*. In the former there is a sense of observation, and in the latter perception. For Wundt, all mental events were compounds, and it was through a careful observation that science could be done by observing the individual components of experience. For Oswald Külpe introspection had broader application, and inner perception could be employed to gain insight into psychological processes and operations. 
+
+
+.. figure:: ./images/kuelpe.jpg
+    :alt: Oswald Külpe
+    :width: 200
+    :align: center
+
+
+    Oswald Külpe:  Science was his bride.
+
+1.4.2 Biography
+^^^^^^^^^^^^^^^
+
+Külpe was born in the Baltic area to a German family. His father was a notary (like a lawyer) and he attended the gymnasium. He had two unmarried cousins who lived in Leipzig and who were major influences on young Oswald. As Külpe never married the motto associated with him was that “Science was his bride.” He started out teaching history and went to Leipzig to study history in 1881 only two years after the formal founding of Wundt's laboratory. Külpe took some courses from Wundt and benefited from the *Wissenschaft* character of German Universities by transferring to Berlin for additional study. Subsequently, he went to Göttingen and there he met Georg Elias Müller who expanded the instrumentation and technical rigor of psychological research, and who followed up many of the seminal memory studies of Ebbinghaus. Külpe went to Russia to earn a teaching certificate, but rather than work in education he returned to Leipzig and earned a PhD (Theory of Sensual Feeling  [9]_ ) and Habilitation with Wundt. 
+
+Külpe continued to work with Wundt becoming his laboratory assistant, then a privat dozent  [10]_ . In 1894 he became an extraordinary professor, which is actually less impressive than being an ordinary professor.  *Called* to Würzburg in 1896 he founded the psychology laboratory there and remained for fifteen years before moving to Bonn where he founded another new psychology laboratory. Four years later he moved to Münich, again to found a new psychology laboratory. WWI and the world's response to Germany deeply affected him (as it did many other German psychologists) who felt patriotic and that  Germany had been misunderstood. He contracted influenza in 1915 and as a possible complication developed a purulent infection of the heart muscle from which he died  [11]_ .
+
+1.4.3 The Würzburg School
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Külpe's enduring reputation comes from his association with the Würzburg school. The laboratory there represented a counterweight to Wundt's narrow interpretation of the permissible use of introspection in psychological research, and also represented a significant challenge to Wundt's scientific theory of the mental. For Wundt consciousness was an amalgam of sensation, feeling, and image. The group at Würzburg challenged this idea, putting particular pressure on the necessity of the image. In a series of experiments highlighting what today we could call *mental set* they demonstrated that task instructions could affect perceptual and conscious experience without any concomitant imagery. Conscious experience was characterized, by Wundt and similar thinkers, as having only duration, intensity, quality, and extensity (a spatial character). *Thought content* did not have these characteristics and was a suspect conscious element. Further, Wundtians felt that the introspective procedures of Külpe and collaborators was describing what had happened instead of the happening itself. A relatively contemporary discussion of this controversy of "imageless thought" can be found in `Ogden, 1911 (pdf) <http://psycnet.apa.org/journals/bul/8/6/183.pdf>`_, and a later discussion by `Boring (pdf) <http://psycnet.apa.org/journals/bul/50/3/169.pdf>`_.  A more modern and full discussion of the school by someone at Würzburg (Hoffman) can be found as a pdf `here <http://www.psychologie.uni-wuerzburg.de/w_schule/WSCHOOL2a.pdf>`_.
+
+1.4.4 Contributions
+^^^^^^^^^^^^^^^^^^^
+
+Külpe's contributions are several. He was interested in, and made more respectable, the scientific investigation of  “higher” order processes including the use of introspection to probe such entities as thinking - though he was perhaps not as involved in this as posterity emphasizes. He founded and equipped three labs in Germany, was widely regarded as one of the "nice guys" of the profession, and if he had not died relatively young, might have had a much larger influence on the course of the field. Given his character and his interests he could be regarded as a forerunner of a Cognitive Psychology, and he certainly was a direct influence on the psychologists who would go on to do seminal work in Gestalt psychology (Koffka and Werthemier) and Intelligence (Spearman). 
+
 
 .. [1] Hermann Ebbinghaus photo `credit <http://vlp.mpiwg-berlin.mpg.de/vlpimages/images/img6059.jpg>`_.
 
@@ -87,3 +120,9 @@ While known for his memory work, a less appreciated contribution of Ebbinghaus w
     And the mome raths outgrabe.
 
 .. [8] Ebbinghaus may not have been the only early psychologist inspired by poetry as a method for studying memory. See also `https://archive.org/stream/obliviscenceremi02ball#page/n14/mode/1up <https://archive.org/stream/obliviscenceremi02ball#page/n14/mode/1up>`_.
+
+.. [9] Link to the thesis [German]  `https://books.google.ca/books?id=G7I-AAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false <https://books.google.ca/books?id=G7I-AAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false>`_
+
+.. [10] `https://en.wikipedia.org/wiki/Privatdozent <https://en.wikipedia.org/wiki/Privatdozent>`_
+
+.. [11] Additional biographical and other material can be found in this article from the `American Journal of Psychology, 1951 <http://www.jstor.org/stable/1418592?Search=yes&resultItemClick=true&searchText=Oswald&searchText=K%C3%BClpe&searchText=and&searchText=the&searchText=W%C3%BCrzburg&searchText=school&searchUri=%2Faction%2FdoBasicSearch%3Facc%3Don%26amp%3Bfc%3Doff%26amp%3Bhp%3D25%26amp%3Bprq%3Damerican%2Bjournal%2Bof%2Bpsychology%2B1951%26amp%3Bwc%3Don%26amp%3BQuery%3DOswald%2BK%25C3%25BClpe%2Band%2Bthe%2BW%25C3%25BCrzburg%2Bschool%26amp%3Bso%3Drel&refreqid=search%3A62b72bcd23f6889f515f1a81fc7831b3&seq=1#page_scan_tab_contents>`_.
