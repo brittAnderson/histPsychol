@@ -38,9 +38,97 @@ Hermann Ebbinghaus can be regarded as a bit of a dreamer. He came to psychology 
 
     While known for his memory work, a less appreciated contribution of Ebbinghaus was his development of an early intelligence test that was directly influential on other later intelligence psychologists. 
 
-** Carl Stumpf
+** Carl Stumpf  (1848 - 1936)
+*** A Short Video Introduction to His Career
+ #+Begin_export rst
+   .. raw:: html
 
-** Georg Müller
+	<iframe id="player" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/xzZEdvRM8Z0" frameborder="0"></iframe>
+
+ #+End_export
+*** Biographical and Career Highlights 
+    Carl Stumpf [fn:15]is evidence that all early scientiific psychology did not descend from Wundt. Stumpf himself did not train under Wundt, and in fact was engaged in bitter disputes with Wundt regarding the proper methods for psychological research on music. He was also important for the movement that came to eclipse Wundt's Voluntarism, Gestaltism. Two of Gestalt Psychology's founders, Koffka and Köhler, spent part of the careers with Stumpf.
+
+Stump was born in Germany, before it was Germany [fn:12] in Barvaria a region that contains Würzburg where he would work for a period, and where Külpe would also Chair. Stumpf's family was cultured and upper middle class. His father was a physician, and two uncles were scientists. The house was musical, and Stumpf had obvious talents that were apparent at an early age. He could play the violin at 7, and it is said that he composed his first oratorio, a piece for three male voices, when he was only ten. His mastering of the violin was followed up by learning to play several other musical instruments. Stumpf's psychological training took place in Würzburg under Brentano (known for his _Act Psychology_), and at Göttingen where, following Brentano's advice, he continued his psychological studies with Lötze. His disertation was on the philosophical side of psychology: The Relationship Between Plato's God and His Idea of Goodness, which reflected his supervisors' approach to psychology. There is some idea that he thought about becoming a priest, but during the debate over papal infallability he decided not to pursue clerical training, but rather psychology. In addition to his training he had other exposures to the discipline that may have contributed to this choice. His family knew both [[file:psychophysics.org][Fechner and Weber]] and the story is that Weber even measured two-point discrimination on Stumpf in the parlor of his brother's house. His work on space perception begain in the early 1870s, before the official, post-hoc, founding of experimental psychology (and showing that this idea of a founding year is quite arbitrary). 
+
+Stumpf's controversy with Wundt had to do with the method of introspection and the proper subjects for this research. Recall that much of the work at this early stage was devoted to the conscious experience of physical, sensory stimuli. The participants, or subjects, of research at this time were expected to be expert in introspection so that they could give reproducible and reliable accounts of their conscious experience, e.g. by avoiding the stimulus error. Another pre-occupation was to avoid the reporting of learned associations; the report of the conscious apperception was to be primal and learned. Who then would make the best subjects for this research? Would it be those naive to music, its structure, its vocabulary, and learned associations? Or should it be those with muscial capacities who would possess an appreciation of the subtle characteristics of music and have the right terms to express their experiences, but whose reports might also be contaminated by the associations learned during the development of their skills? Take a moment to think which of these two eminent psychologists would have come down on which side of this debate, and then read some of their nasty to and fro [fn:14].
+
+#+Begin_quote
+Mach and Stumpf sat down together before a harmonium, 
+in the physical laboratory at Prague, to decide the question 
+whether attention to one of the component tones of an 
+ordinary musical chord does or does not strengthen that 
+particular tone. Mach declared that the intensification 
+was quite clear; Stumpf could find no trace of intensive 
+change. ... 
+What is the value of a method which lands us in 
+difficulties of this sort?
+-- E.B. Titchener [fn:13]
+#+End_quote
+
+Stumpf's legacy is probably greater than Wundt's today with a [[http://www.brill.com/products/book/philosophy-empirical-standpoint-essays-carl-stumpf][renewed interest]] in his thoughts and writings. Perhaps this could have been forseen as William James is said to have fancied Stumpf of all the German psychologists he met during his European visits. 
+
+** Georg Müller  (1850 - 1934) 
+-- To Do --
+Müller Biography
+
+-  Born in Grimma (near Leipzig). Father was a parson.
+
+-  Higher education in Berlin, Leipzig, Göttingen.
+
+-  Did his time in the Franco-Prussian War.
+
+-  Influence by Lötze in Göttingen and Fechner in Leipzig.
+
+-  Landed an instructor's position at Göttingen and spent the next 40 years there.
+
+-  In 1887, two years after Ebbinghaus's work on memory published, Göttingen group begins mopping up.
+
+-  The heir to Fechner in psychophysics. He dropped all the panpsychism and presented it as the first real effort to establish quantitative laws in the mental realm.
+
+Müller's Three Keys to a Successful Academic Career
+
+1. Be appointed a professor at a young age (31).
+
+2. Marry an intelligent woman.
+
+3. Have poor health and a temperament that precludes overconfidence.
+
+from Portraits of Pioneers in Psychology by Gregory A. Kimble.
+
+Müller Biography
+
+Was a literary kid, reading Goethe, Byron. Note that he was another example of these students who attended university in multiple cities. Lötze is mentioned on page 49 of the Blue book. More in the mode of the philosopher-psychologist than the scientist-psychologist. Müller was a very proper prussian; he demanded order and precision. This was the reason that his first teaching position in the Austrian hinterlands was so unpalatable. It is easy to draw a connection to his success as a methodologist and this aspect of his temperament. Sent critiques of their ideas to both Lötze and Fechner, which they received well; a tribute to both them and the thinking of Müller. In fact, his critique of Fechner led to Fechner publishing a revision of his work.
+
+Müller's Contributions
+
+-  Technical refinement of Ebb's methods: e.g. drew consonants and vowels at random, presented stimuli with a memory drum.
+
+-  Through his use of introspection during memory tasks he discovered the phenomenon of “chunking”
+
+-  Studied interference effects, visual perception, colour theory.
+
+-  Co-discoverer of Jost's law.
+
+-  The methodological conscience of German Psychology.
+
+Müller's Contributions Jost's Law: If two associations are of equal strenth, then repetition strengthens the older more than the younger.
+
+#+Begin_quote
+Tribute to Müller “What assured the far-reaching results of his
+scientific research was to a great extent his exemplary scientific
+methodological stance. It is characterized by ... rigor and simplicity,
+its cleanness and reliability and likewise limitation inn its
+interpretation of the results obtained (Hische, 1935, p 146)” --- quoted
+from Portraits of Pioneers in Psychology, by Gregory A. Kimble.
+#+End_quote
+
+Müller Comments Insisted on being a subject in every new paradigm. Went to lectures in other faculties, including physical chemistry by Nernst.
+
+* Early Psychological Laboratories
+  - Cattell's report in Mind 1888 ([[http://mind.oxfordjournals.org/content/os-XIII/49/37.full.pdf][pdf]])
+  - Cattell's report in [[http://www.jstor.org/stable/1654107?seq=1#page_scan_tab_contents][Science]]
+    
 
 ** Oswald Külpe
    The methodology of early psychology was restricted to a few basic procedures. Reaction time and psychophysical methods were standard, but the main probe for a science of consciousness and the mental was introspection. It was the subjective, personal, data that was to be explained, and there seemed little way to probe this experience without a participant's direct report. Early scientific psychologists were not ignorant of the problems this posed for research to be scientific, that is repeatable and consistent. For Wundt introspection was very constricted. There was to be an immediate report of the content of consciousness, not an interpretation, but the raw content. Such a practice constrained the reach of scientific psychology. Thinking and reasoning for example would not be amenable to such a narrow admission of introspective data. 
@@ -72,6 +160,14 @@ Hermann Ebbinghaus can be regarded as a bit of a dreamer. He came to psychology 
 
 
 * Footnotes
+
+[fn:15] For more detail there is an excellent article in the [[https://plato.stanford.edu/entries/stumpf/][Stanford Encyclopedia]] on Stumpf.
+
+[fn:14] Stumps' [[http://vlp.mpiwg-berlin.mpg.de/library/data/lit14619?][closing words]] to Wundt and Wundt's [[http://vlp.mpiwg-berlin.mpg.de/library/data/lit759?][rejoinder]] (easy to get the last word in when you have your own journal, and a pretty clear reason why you need more than one scientific psychology journal - Thank you Ebbinghaus.)
+
+[fn:13] Page 436 of http://www.jstor.org/stable/1413427 
+
+[fn:12] https://www.britannica.com/event/Franco-German-War
 
 [fn:11] Additional biographical and other material can be found in this article from the [[http://www.jstor.org/stable/1418592?Search=yes&resultItemClick=true&searchText=Oswald&searchText=K%25C3%25BClpe&searchText=and&searchText=the&searchText=W%25C3%25BCrzburg&searchText=school&searchUri=%252Faction%252FdoBasicSearch%253Facc%253Don%2526amp%253Bfc%253Doff%2526amp%253Bhp%253D25%2526amp%253Bprq%253Damerican%252Bjournal%252Bof%252Bpsychology%252B1951%2526amp%253Bwc%253Don%2526amp%253BQuery%253DOswald%252BK%2525C3%2525BClpe%252Band%252Bthe%252BW%2525C3%2525BCrzburg%252Bschool%2526amp%253Bso%253Drel&refreqid=search%253A62b72bcd23f6889f515f1a81fc7831b3&seq=1#page_scan_tab_contents][American Journal of Psychology, 1951]].
 

@@ -50,18 +50,112 @@ Using himself as the sole research subject Ebbinghaus established the core featu
 
 While known for his memory work, a less appreciated contribution of Ebbinghaus was his development of an early intelligence test that was directly influential on other later intelligence psychologists. 
 
-1.2 Carl Stumpf
-~~~~~~~~~~~~~~~
+1.2 Carl Stumpf  (1848 - 1936)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1.3 Georg Müller
-~~~~~~~~~~~~~~~~
+1.2.1 A Short Video Introduction to His Career
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.4 Oswald Külpe
+   .. raw:: html
+
+	<iframe id="player" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/xzZEdvRM8Z0" frameborder="0"></iframe>
+
+1.2.2 Biographical and Career Highlights
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Carl Stumpf  [9]_ is evidence that all early scientiific psychology did not descend from Wundt. Stumpf himself did not train under Wundt, and in fact was engaged in bitter disputes with Wundt regarding the proper methods for psychological research on music. He was also important for the movement that came to eclipse Wundt's Voluntarism, Gestaltism. Two of Gestalt Psychology's founders, Koffka and Köhler, spent part of the careers with Stumpf.
+
+Stump was born in Germany, before it was Germany  [10]_  in Barvaria a region that contains Würzburg where he would work for a period, and where Külpe would also Chair. Stumpf's family was cultured and upper middle class. His father was a physician, and two uncles were scientists. The house was musical, and Stumpf had obvious talents that were apparent at an early age. He could play the violin at 7, and it is said that he composed his first oratorio, a piece for three male voices, when he was only ten. His mastering of the violin was followed up by learning to play several other musical instruments. Stumpf's psychological training took place in Würzburg under Brentano (known for his Act Psychology), and at Göttingen where, following Brentano's advice, he continued his psychological studies with Lötze. His disertation was on the philosophical side of psychology: The Relationship Between Plato's God and His Idea of Goodness, which reflected his supervisors' approach to psychology. There is some idea that he thought about becoming a priest, but during the debate over papal infallability he decided not to pursue clerical training, but rather psychology. In addition to his training he had other exposures to the discipline that may have contributed to this choice. His family knew both `Fechner and Weber <psychophysics.>`_ and the story is that Weber even measured two-point discrimination on Stumpf in the parlor of his brother's house. His work on space perception begain in the early 1870s, before the official, post-hoc, founding of experimental psychology (and showing that this idea of a founding year is quite arbitrary). 
+
+Stumpf's controversy with Wundt had to do with the method of introspection and the proper subjects for this research. Recall that much of the work at this early stage was devoted to the conscious experience of physical, sensory stimuli. The participants, or subjects, of research at this time were expected to be expert in introspection so that they could give reproducible and reliable accounts of their conscious experience, e.g. by avoiding the stimulus error. Another pre-occupation was to avoid the reporting of learned associations; the report of the conscious apperception was to be primal and learned. Who then would make the best subjects for this research? Would it be those naive to music, its structure, its vocabulary, and learned associations? Or should it be those with muscial capacities who would possess an appreciation of the subtle characteristics of music and have the right terms to express their experiences, but whose reports might also be contaminated by the associations learned during the development of their skills? Take a moment to think which of these two eminent psychologists would have come down on which side of this debate, and then read some of their nasty to and fro  [11]_ .
+
+::
+
+    Mach and Stumpf sat down together before a harmonium, 
+    in the physical laboratory at Prague, to decide the question 
+    whether attention to one of the component tones of an 
+    ordinary musical chord does or does not strengthen that 
+    particular tone. Mach declared that the intensification 
+    was quite clear; Stumpf could find no trace of intensive 
+    change. ... 
+    What is the value of a method which lands us in 
+    difficulties of this sort?
+    -- E.B. Titchener  [12]_ 
+
+Stumpf's legacy is probably greater than Wundt's today with a `renewed interest <http://www.brill.com/products/book/philosophy-empirical-standpoint-essays-carl-stumpf>`_ in his thoughts and writings. Perhaps this could have been forseen as William James is said to have fancied Stumpf of all the German psychologists he met during his European visits. 
+
+1.3 Georg Müller  (1850 - 1934)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-- To Do --
+Müller Biography
+
+- Born in Grimma (near Leipzig). Father was a parson.
+
+- Higher education in Berlin, Leipzig, Göttingen.
+
+- Did his time in the Franco-Prussian War.
+
+- Influence by Lötze in Göttingen and Fechner in Leipzig.
+
+- Landed an instructor's position at Göttingen and spent the next 40 years there.
+
+- In 1887, two years after Ebbinghaus's work on memory published, Göttingen group begins mopping up.
+
+- The heir to Fechner in psychophysics. He dropped all the panpsychism and presented it as the first real effort to establish quantitative laws in the mental realm.
+
+Müller's Three Keys to a Successful Academic Career
+
+1. Be appointed a professor at a young age (31).
+
+2. Marry an intelligent woman.
+
+3. Have poor health and a temperament that precludes overconfidence.
+
+from Portraits of Pioneers in Psychology by Gregory A. Kimble.
+
+Müller Biography
+
+Was a literary kid, reading Goethe, Byron. Note that he was another example of these students who attended university in multiple cities. Lötze is mentioned on page 49 of the Blue book. More in the mode of the philosopher-psychologist than the scientist-psychologist. Müller was a very proper prussian; he demanded order and precision. This was the reason that his first teaching position in the Austrian hinterlands was so unpalatable. It is easy to draw a connection to his success as a methodologist and this aspect of his temperament. Sent critiques of their ideas to both Lötze and Fechner, which they received well; a tribute to both them and the thinking of Müller. In fact, his critique of Fechner led to Fechner publishing a revision of his work.
+
+Müller's Contributions
+
+- Technical refinement of Ebb's methods: e.g. drew consonants and vowels at random, presented stimuli with a memory drum.
+
+- Through his use of introspection during memory tasks he discovered the phenomenon of “chunking”
+
+- Studied interference effects, visual perception, colour theory.
+
+- Co-discoverer of Jost's law.
+
+- The methodological conscience of German Psychology.
+
+Müller's Contributions Jost's Law: If two associations are of equal strenth, then repetition strengthens the older more than the younger.
+
+::
+
+    Tribute to Müller “What assured the far-reaching results of his
+    scientific research was to a great extent his exemplary scientific
+    methodological stance. It is characterized by ... rigor and simplicity,
+    its cleanness and reliability and likewise limitation inn its
+    interpretation of the results obtained (Hische, 1935, p 146)” --- quoted
+    from Portraits of Pioneers in Psychology, by Gregory A. Kimble.
+
+Müller Comments Insisted on being a subject in every new paradigm. Went to lectures in other faculties, including physical chemistry by Nernst.
+
+2 Early Psychological Laboratories
+----------------------------------
+
+- Cattell's report in Mind 1888 (`pdf <http://mind.oxfordjournals.org/content/os-XIII/49/37.full.pdf>`_)
+
+- Cattell's report in `Science <http://www.jstor.org/stable/1654107?seq=1#page_scan_tab_contents>`_
+
+2.1 Oswald Külpe
 ~~~~~~~~~~~~~~~~
 
 The methodology of early psychology was restricted to a few basic procedures. Reaction time and psychophysical methods were standard, but the main probe for a science of consciousness and the mental was introspection. It was the subjective, personal, data that was to be explained, and there seemed little way to probe this experience without a participant's direct report. Early scientific psychologists were not ignorant of the problems this posed for research to be scientific, that is repeatable and consistent. For Wundt introspection was very constricted. There was to be an immediate report of the content of consciousness, not an interpretation, but the raw content. Such a practice constrained the reach of scientific psychology. Thinking and reasoning for example would not be amenable to such a narrow admission of introspective data. 
 
-1.4.1 Is there only one kind of introspection?
+2.1.1 Is there only one kind of introspection?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Different terms were used by the early German scientific psychologists for introspection: *Selbstbeobachtung* and *innere Wahrnemung*. In the former there is a sense of observation, and in the latter perception. For Wundt, all mental events were compounds, and it was through a careful observation that science could be done by observing the individual components of experience. For Oswald Külpe introspection had broader application, and inner perception could be employed to gain insight into psychological processes and operations. 
@@ -75,19 +169,19 @@ Different terms were used by the early German scientific psychologists for intro
 
     Oswald Külpe:  Science was his bride.
 
-1.4.2 Biography
+2.1.2 Biography
 ^^^^^^^^^^^^^^^
 
-Külpe was born in the Baltic area to a German family. His father was a notary (like a lawyer) and he attended the gymnasium. He had two unmarried cousins who lived in Leipzig and who were major influences on young Oswald. As Külpe never married the motto associated with him was that “Science was his bride.” He started out teaching history and went to Leipzig to study history in 1881 only two years after the formal founding of Wundt's laboratory. Külpe took some courses from Wundt and benefited from the *Wissenschaft* character of German Universities by transferring to Berlin for additional study. Subsequently, he went to Göttingen and there he met Georg Elias Müller who expanded the instrumentation and technical rigor of psychological research, and who followed up many of the seminal memory studies of Ebbinghaus. Külpe went to Russia to earn a teaching certificate, but rather than work in education he returned to Leipzig and earned a PhD (Theory of Sensual Feeling  [9]_ ) and Habilitation with Wundt. 
+Külpe was born in the Baltic area to a German family. His father was a notary (like a lawyer) and he attended the gymnasium. He had two unmarried cousins who lived in Leipzig and who were major influences on young Oswald. As Külpe never married the motto associated with him was that “Science was his bride.” He started out teaching history and went to Leipzig to study history in 1881 only two years after the formal founding of Wundt's laboratory. Külpe took some courses from Wundt and benefited from the *Wissenschaft* character of German Universities by transferring to Berlin for additional study. Subsequently, he went to Göttingen and there he met Georg Elias Müller who expanded the instrumentation and technical rigor of psychological research, and who followed up many of the seminal memory studies of Ebbinghaus. Külpe went to Russia to earn a teaching certificate, but rather than work in education he returned to Leipzig and earned a PhD (Theory of Sensual Feeling  [13]_ ) and Habilitation with Wundt. 
 
-Külpe continued to work with Wundt becoming his laboratory assistant, then a privat dozent  [10]_ . In 1894 he became an extraordinary professor, which is actually less impressive than being an ordinary professor.  *Called* to Würzburg in 1896 he founded the psychology laboratory there and remained for fifteen years before moving to Bonn where he founded another new psychology laboratory. Four years later he moved to Münich, again to found a new psychology laboratory. WWI and the world's response to Germany deeply affected him (as it did many other German psychologists) who felt patriotic and that  Germany had been misunderstood. He contracted influenza in 1915 and as a possible complication developed a purulent infection of the heart muscle from which he died  [11]_ .
+Külpe continued to work with Wundt becoming his laboratory assistant, then a privat dozent  [14]_ . In 1894 he became an extraordinary professor, which is actually less impressive than being an ordinary professor.  *Called* to Würzburg in 1896 he founded the psychology laboratory there and remained for fifteen years before moving to Bonn where he founded another new psychology laboratory. Four years later he moved to Münich, again to found a new psychology laboratory. WWI and the world's response to Germany deeply affected him (as it did many other German psychologists) who felt patriotic and that  Germany had been misunderstood. He contracted influenza in 1915 and as a possible complication developed a purulent infection of the heart muscle from which he died  [15]_ .
 
-1.4.3 The Würzburg School
+2.1.3 The Würzburg School
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Külpe's enduring reputation comes from his association with the Würzburg school. The laboratory there represented a counterweight to Wundt's narrow interpretation of the permissible use of introspection in psychological research, and also represented a significant challenge to Wundt's scientific theory of the mental. For Wundt consciousness was an amalgam of sensation, feeling, and image. The group at Würzburg challenged this idea, putting particular pressure on the necessity of the image. In a series of experiments highlighting what today we could call *mental set* they demonstrated that task instructions could affect perceptual and conscious experience without any concomitant imagery. Conscious experience was characterized, by Wundt and similar thinkers, as having only duration, intensity, quality, and extensity (a spatial character). *Thought content* did not have these characteristics and was a suspect conscious element. Further, Wundtians felt that the introspective procedures of Külpe and collaborators was describing what had happened instead of the happening itself. A relatively contemporary discussion of this controversy of "imageless thought" can be found in `Ogden, 1911 (pdf) <http://psycnet.apa.org/journals/bul/8/6/183.pdf>`_, and a later discussion by `Boring (pdf) <http://psycnet.apa.org/journals/bul/50/3/169.pdf>`_.  A more modern and full discussion of the school by someone at Würzburg (Hoffman) can be found as a pdf `here <http://www.psychologie.uni-wuerzburg.de/w_schule/WSCHOOL2a.pdf>`_.
 
-1.4.4 Contributions
+2.1.4 Contributions
 ^^^^^^^^^^^^^^^^^^^
 
 Külpe's contributions are several. He was interested in, and made more respectable, the scientific investigation of  “higher” order processes including the use of introspection to probe such entities as thinking - though he was perhaps not as involved in this as posterity emphasizes. He founded and equipped three labs in Germany, was widely regarded as one of the "nice guys" of the profession, and if he had not died relatively young, might have had a much larger influence on the course of the field. Given his character and his interests he could be regarded as a forerunner of a Cognitive Psychology, and he certainly was a direct influence on the psychologists who would go on to do seminal work in Gestalt psychology (Koffka and Werthemier) and Intelligence (Spearman). 
@@ -121,8 +215,16 @@ Külpe's contributions are several. He was interested in, and made more respecta
 
 .. [8] Ebbinghaus may not have been the only early psychologist inspired by poetry as a method for studying memory. See also `https://archive.org/stream/obliviscenceremi02ball#page/n14/mode/1up <https://archive.org/stream/obliviscenceremi02ball#page/n14/mode/1up>`_.
 
-.. [9] Link to the thesis [German]  `https://books.google.ca/books?id=G7I-AAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false <https://books.google.ca/books?id=G7I-AAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false>`_
+.. [9] For more detail there is an excellent article in the `Stanford Encyclopedia <https://plato.stanford.edu/entries/stumpf/>`_ on Stumpf.
 
-.. [10] `https://en.wikipedia.org/wiki/Privatdozent <https://en.wikipedia.org/wiki/Privatdozent>`_
+.. [10] `https://www.britannica.com/event/Franco-German-War <https://www.britannica.com/event/Franco-German-War>`_
 
-.. [11] Additional biographical and other material can be found in this article from the `American Journal of Psychology, 1951 <http://www.jstor.org/stable/1418592?Search=yes&resultItemClick=true&searchText=Oswald&searchText=K%C3%BClpe&searchText=and&searchText=the&searchText=W%C3%BCrzburg&searchText=school&searchUri=%2Faction%2FdoBasicSearch%3Facc%3Don%26amp%3Bfc%3Doff%26amp%3Bhp%3D25%26amp%3Bprq%3Damerican%2Bjournal%2Bof%2Bpsychology%2B1951%26amp%3Bwc%3Don%26amp%3BQuery%3DOswald%2BK%25C3%25BClpe%2Band%2Bthe%2BW%25C3%25BCrzburg%2Bschool%26amp%3Bso%3Drel&refreqid=search%3A62b72bcd23f6889f515f1a81fc7831b3&seq=1#page_scan_tab_contents>`_.
+.. [11] Stumps' `closing words <http://vlp.mpiwg-berlin.mpg.de/library/data/lit14619?>`_ to Wundt and Wundt's `rejoinder <http://vlp.mpiwg-berlin.mpg.de/library/data/lit759?>`_ (easy to get the last word in when you have your own journal, and a pretty clear reason why you need more than one scientific psychology journal - Thank you Ebbinghaus.)
+
+.. [12] Page 436 of `http://www.jstor.org/stable/1413427 <http://www.jstor.org/stable/1413427>`_
+
+.. [13] Link to the thesis [German]  `https://books.google.ca/books?id=G7I-AAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false <https://books.google.ca/books?id=G7I-AAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false>`_
+
+.. [14] `https://en.wikipedia.org/wiki/Privatdozent <https://en.wikipedia.org/wiki/Privatdozent>`_
+
+.. [15] Additional biographical and other material can be found in this article from the `American Journal of Psychology, 1951 <http://www.jstor.org/stable/1418592?Search=yes&resultItemClick=true&searchText=Oswald&searchText=K%C3%BClpe&searchText=and&searchText=the&searchText=W%C3%BCrzburg&searchText=school&searchUri=%2Faction%2FdoBasicSearch%3Facc%3Don%26amp%3Bfc%3Doff%26amp%3Bhp%3D25%26amp%3Bprq%3Damerican%2Bjournal%2Bof%2Bpsychology%2B1951%26amp%3Bwc%3Don%26amp%3BQuery%3DOswald%2BK%25C3%25BClpe%2Band%2Bthe%2BW%25C3%25BCrzburg%2Bschool%26amp%3Bso%3Drel&refreqid=search%3A62b72bcd23f6889f515f1a81fc7831b3&seq=1#page_scan_tab_contents>`_.
