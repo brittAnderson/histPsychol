@@ -14,9 +14,11 @@ Early Americans
 1.1 Granville Stanley Hall
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Haven't really started on this section, but I did hear an interesting podcast the other day on homework that gave a prominent place to G. Stanley Hall's Child Study Movement. Fast forward to about minute 32 to listen. 
+
 .. raw:: html
 
-   <iframe width="560" height "315" src="http://www.cbc.ca/radio/ideas/homework-ban-1.3752050?autoplay=true" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height "315" src="http://www.cbc.ca/radio/popup/audio/listen.html?autoPlay=true&clipIds=&mediaIds=2694669312&contentarea=radio&subsection1=radio1&subsection2=currentaffairs&subsection3=ideas&contenttype=audio&title=2016/09/07/1.3751636-homework-ban&contentid=1.3751636" frameborder="0"></iframe>
 
 1.2 William James
 ~~~~~~~~~~~~~~~~~

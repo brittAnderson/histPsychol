@@ -2,6 +2,7 @@
 Preface
 =======
 
+    :Author: Britt Anderson
 
 .. contents::
 
@@ -13,10 +14,10 @@ Preface
 This book grew from my notes and experience teaching the History of Psychology course at the `University of Waterloo <https://uwaterloo.ca/>`_. I started teaching this course in Jan 2008. 
 I was assigned this course for a couple of reasons. Most importantly, I was the newest departmental member, and really had no idea what I could or should say yes and no to. 
 Secondarily, I had a background in Neurology where eponyms  [1]_  are common. 
-By virtue of my common use of the names of physicians of long ago I was viewed as sufficiently historical.
+By virtue of my common use of the names of physicians of long ago, I was viewed as sufficiently historical.
 
 I was very anxious that first year. 
-While I knew a lot about the brain and behavior my background was not psychology *per se*. 
+While I knew a lot about the brain and behavior, my background was not psychology *per se*. 
 Fortunately, I was deluged with examination copies of textbooks on the topics.
 Many were very good. 
 All were expensive.
@@ -58,14 +59,13 @@ I wanted some core collection of facts that I could require them to know.
 For the last two offerings this has been provided by `Kardas <http://www.cengage.com/search/productOverview.do?N=11+4294945456&Ntk=P_EPI&Ntt=213994572487746077113700970783323149&Ntx=mode+matchallpartial>`_. 
 This publisher has allowed for me to have a selection of the chapters printed which saves the students money from not having to purchase the whole book.
 In addition, they can buy on-line access to the chapters for even less.
-Since this is not a book that most students will consult as a reference that has seemed a cost efficient compromise.
+Since this is not a book that most students will consult as a reference, that has seemed a cost efficient compromise.
 
 But I am beginning to doubt whether even that is necessary.
-As my collection of links to on-line resources, podcasts, original articles, obituaries, and archives grows I am beginning to believe that a *textbook* could be made of this material with some bridging text and commentary. 
+As my collection of links to on-line resources, podcasts, original articles, obituaries, and archives grows, I am beginning to believe that a *textbook* could be made of this material with some bridging text and commentary. 
 While some students may need or want the social atmosphere of the classroom discussion for developing their own ideas, others may be satisfied with self-study. 
-By making the materials available on-line and with a print on demand mechanism students could decide for themselves on the format.
-And since I assume that I am only one of many instructors stumbling down this road others could make use of my materials. 
-Either taken as a whole or by cutting and pasting with their own edits, changes, additions, and subtractions as they see fit.
+By making the materials available on-line and with a print on demand mechanism, students could decide for themselves on the format.
+And since I assume that I am only one of many instructors stumbling down this road, others could make use of my materials either taken as a whole or by cutting and pasting with their own edits, changes, additions, and subtractions as they see fit.
 
 Where I am now is that the book should be a guided tour through the history of psychology with many links to freely available material. 
 I should explain what I think is interesting, and why.
