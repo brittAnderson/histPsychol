@@ -20,6 +20,7 @@ Contents:
    earlyAmericans
    earlyGermans
    earlyOthers
+   earlySchools
    compAndBehavior
    neoBehavior
    gestalt
