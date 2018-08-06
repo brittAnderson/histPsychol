@@ -1,0 +1,14 @@
+#+Title: Early Theoretical Schools of Scientific Psychology
+#+Options: timestamp:nil
+
+* Stub
+
+** Faculty Psychology
+
+** Psychophysics
+
+** Act Psychology
+
+** Structuralism
+
+** Functionalism
