@@ -3,7 +3,7 @@ An Online History of Psychology Textbook
 
 **Update** 
 
-I still have all the motivations that follow in the sections below, but now I am using this material as the basis for a course in the Arts First initiative at the University of Waterloo. I am organizing my effort to teach writing and communication around the history of psychology generally, but with the specific tool of contributing sections to this book. The first effort at this is Fall 2018. Hopefully, the book will get a bit more populated with content, but more importantly I may gain some useful insight in how to teach the learning of content by creating content. Stay Tuned.
+I still have all the motivations that follow in the sections below, but now I am using this material as the basis for a course in the [Arts First](https://uwaterloo.ca/arts-first/about) initiative at the University of Waterloo. I am organizing my effort to teach writing and communication around the history of psychology generally, but with the specific tool of contributing sections to this book. The first effort at this is Fall 2018. Hopefully, the book will get a bit more populated with content, but more importantly I may gain some useful insight in how to teach the learning of content by creating content. Stay Tuned.
 
 
 # The original motivation for this repo
