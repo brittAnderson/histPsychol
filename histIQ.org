@@ -16,4 +16,5 @@
 ** Goddard
 
 ** Terman
-   [[./terman.rst][Terman's Page]]
+   [[./terman.html][Terman's Page]]
+   

@@ -32,4 +32,4 @@ History of Intelligence Testing
 1.7 Terman
 ~~~~~~~~~~
 
-`Terman's Page <./terman.rst>`_
+`Terman's Page <./terman.html>`_
