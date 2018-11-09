@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:georss="http://www.georss.org/georss"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>History of Intelligence Testing</title>
+  <atom:link href="./histIQ.xml" rel="self" type="application/rss+xml" />
+  <link></link>
+  <description><![CDATA[]]></description>
+  <language>en</language>
+  <pubDate>Fri, 09 Nov 2018 12:37:42 -0500</pubDate>
+  <lastBuildDate>Fri, 09 Nov 2018 12:37:42 -0500</lastBuildDate>
+  <generator>Emacs 26.1 Org-mode 9.1.14</generator>
+  <webMaster>britt@uwaterloo.ca (Britt Anderson)</webMaster>
+  <image>
+    <url>https://orgmode.org/img/org-mode-unicorn-logo.png</url>
+    <title>History of Intelligence Testing</title>
+    <link></link>
+  </image>
+
+
+  <item>
+    <title>Some key figures in the psychology of attention</title>
+    <link>./histIQ.html#org90c2026</link>
+    <author>britt@uwaterloo.ca (Britt Anderson)</author>
+    <guid isPermaLink="false">./histIQ.html#org90c2026</guid>
+    <pubDate>Fri, 09 Nov 2018 12:37:00 -0500</pubDate>
+
+    <description><![CDATA[<div id="outline-container-org54cf8ba" class="outline-3">
+    <h3 id="org54cf8ba"><a id="ID-5eb75a2e-e68a-422e-91ec-1e3ee1e026c9"></a><span class="section-number-3">1.1</span> Galton</h3>
+    <div class="outline-text-3" id="text-1-1">
+    </div>
+    </div>
+
+    <div id="outline-container-org50b3a4a" class="outline-3">
+    <h3 id="org50b3a4a"><a id="ID-b95f05eb-5ea0-4b09-a8dc-d4a05690b8eb"></a><span class="section-number-3">1.2</span> Spearman</h3>
+    <div class="outline-text-3" id="text-1-2">
+    </div>
+    </div>
+
+    <div id="outline-container-orgf94ecd6" class="outline-3">
+    <h3 id="orgf94ecd6"><a id="ID-cf29db67-bd63-47ec-b2ae-c64ed79e05a4"></a><span class="section-number-3">1.3</span> Cattell</h3>
+    <div class="outline-text-3" id="text-1-3">
+    </div>
+    </div>
+
+    <div id="outline-container-org8969d1f" class="outline-3">
+    <h3 id="org8969d1f"><a id="ID-0c2159f5-9950-4e1c-80b3-ba1a48011e96"></a><span class="section-number-3">1.4</span> Yerkes and Woodworth</h3>
+    <div class="outline-text-3" id="text-1-4">
+    </div>
+    </div>
+
+    <div id="outline-container-org1758051" class="outline-3">
+    <h3 id="org1758051"><a id="ID-6878fed0-e0dc-4f3a-b6a6-8866f757daed"></a><span class="section-number-3">1.5</span> Binet</h3>
+    <div class="outline-text-3" id="text-1-5">
+    </div>
+    </div>
+
+    <div id="outline-container-org57d56c4" class="outline-3">
+    <h3 id="org57d56c4"><a id="ID-8af5c05b-a8c6-4c98-85fc-83be99327785"></a><span class="section-number-3">1.6</span> Goddard</h3>
+    <div class="outline-text-3" id="text-1-6">
+    </div>
+    </div>
+
+    <div id="outline-container-org018fd3c" class="outline-3">
+    <h3 id="org018fd3c"><a id="ID-ccd51394-c4aa-4881-bc38-2604e90ce0bd"></a><span class="section-number-3">1.7</span> Terman</h3>
+    <div class="outline-text-3" id="text-1-7">
+    <p>
+    <a href="./terman.rst">./terman.rst</a>
+    </p>
+    </div>
+    </div>
+    ]]></description>
+  </item>
+</channel>
+</rss>
