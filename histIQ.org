@@ -1,7 +1,7 @@
 #+Title: History of Intelligence Testing
 #+Options: timestamp:nil
 
-* Stub
+* Some key figures in the psychology of attention
 
 ** Galton
 
@@ -16,3 +16,4 @@
 ** Goddard
 
 ** Terman
+   [[./terman.rst][Terman's Page]]
