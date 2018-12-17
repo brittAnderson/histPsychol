@@ -1,10 +1,9 @@
 **Lewis Terman**
 ================
+.. _terman:
 
 .. figure:: https://upload.wikimedia.org/wikipedia/commons/0/0b/Lewis_Madison_Terman.jpg
    :alt: Lewis Terman
-
-   Lewis Terman
 
 Downloaded from `Wikimedia
 Commons <https://commons.wikimedia.org/wiki/File:Lewis_Madison_Terman.jpg>`__
@@ -301,11 +300,11 @@ much higher rate compared to the average. Women had fewer children and
 had them later in life as they chased higher degrees. The gifted group
 was financially better than any comparison group. As Terman followed
 this group for 35 years, they showed an impressive array of
-accomplishments: Of just the gifted males; 70 were listed in *`American
+accomplishments: Of just the gifted males; 70 were listed in `American
 Men of
-Science <http://science.sciencemag.org/content/111/2895/699.1>`__*, 3
-were elected to *`National Academy of
-Sciences <http://www.nasonline.org>`__*, 10 entered in the *Directory of
+Science <http://science.sciencemag.org/content/111/2895/699.1>`__, three
+were elected to `National Academy of
+Sciences <http://www.nasonline.org>`__, 10 entered in the *Directory of
 American Scholars* and 31 appeared in Who’s Who in America (Terman, L,
 1959).
 
@@ -407,9 +406,9 @@ Psychological Factors In Marital Happiness:
 
 *Summary*:
 
-*Another study Lewis Terman was to test if one could predict `marital
+*Another study Lewis Terman was to test if one could predict* `marital
 happiness <https://www.jstor.org/stable/3347885?seq=1#page_scan_tab_contents>`__.
-The tests got the scores of happiness and related them statistically to
+*The tests got the scores of happiness and related them statistically to
 various supposed contributors to marital happiness (Daniel, 1940). It
 was found that the thought contributors to marital happiness, did not
 have as much correlation. However, it was found that childhood happiness
@@ -835,80 +834,77 @@ Public Policy, and Law*, 6(1), 33-43.
 Further Readings:
 -----------------
 
-G.Stanley Hall: https://www2.clarku.edu/research/archives/archives/g-stanley-hall.cfm
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-Stanford University: https://stanfordmag.org/contents/the-vexing-legacy-of-lewis-terman
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`G.Stanley Hall <https://www2.clarku.edu/research/archives/archives/g-stanley-hall.cfm>`__
 
-History of Binet-Simon Intelligence Scales: https://www.hmhco.com/~/media/sites/home/hmh-assessments/clinical/stanford-binet/pdf/sb5_asb_1.pdf?la=en
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-More information on Alfred Binet:
-'''''''''''''''''''''''''''''''''
+`Stanford University <https://stanfordmag.org/contents/the-vexing-legacy-of-lewis-terman>`__
 
-https://www.britannica.com/biography/Alfred-Binet
-'''''''''''''''''''''''''''''''''''''''''''''''''
 
-https://books.google.ca/books?hl=en&lr=&id=FYMfAgAAQBAJ&oi=fnd&pg=PA67&dq=Alfred+binet+biography+&ots=q5X_UNUytd&sig=tmyeNFGcav11ivXj1CVq9c9hIMo#v=onepage&q=Alfred%20binet%20biography&f=false - Chapter 5
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`History of Binet-Simon Intelligence Scales <https://www.hmhco.com/~/media/sites/home/hmh-assessments/clinical/stanford-binet/pdf/sb5_asb_1.pdf?la=en>`__
 
-Theodore Simon: https://www.intelltheory.com/simon.shtml
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-For more Information on Binet and Simon's work:\ `https://archive.org/details/measurementofint008006mbp/page/n9 <https://archive.org/details/measurementofint008006mbp/page/n>`__ - Chapter III
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`Alfred Binet Encyclopedia Entry <https://www.britannica.com/biography/Alfred-Binet>`__
+
+
+`Chapter 5 <https://books.google.ca/books?hl=en&lr=&id=FYMfAgAAQBAJ&oi=fnd&pg=PA67&dq=Alfred+binet+biography+&ots=q5X_UNUytd&sig=tmyeNFGcav11ivXj1CVq9c9hIMo#v=onepage&q=Alfred%20binet%20biography&f=false>`__
+
+
+`Theodore Simon <https://www.intelltheory.com/simon.shtml>`__
+
+`For more Information on Binet and Simon's work (Chapter 3) <https://archive.org/details/measurementofint008006mbp/page/n9>`__
+
 
 Binet, A., & Simon, T. (1916). The Development of Intelligence in Children (The Binet-Simon Scale) (E. S. Kite, Trans.). Baltimore, MD, US: Williams & Wilkins Co.
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-More about tests conducted by Terman: https://archive.org/details/measurementofint008006mbp/page/n9 - Chapter IV
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-William Stern: https://www.intelltheory.com/stern.shtml
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`More about tests conducted by Terman <https://archive.org/details/measurementofint008006mbp/page/n9 - Chapter IV>`__
 
-Eugenics: https://www.merriam-webster.com/dictionary/eugenics
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-The Genetic Studies of Genius: https://archive.org/details/in.ernet.dli.2015.157060/page/n9
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`William Stern <https://www.intelltheory.com/stern.shtml>`__
 
-The definition of "early to ripe, early to rot": https://idioms.thefreedictionary.com/early+ripe%2C+early+rotten
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-American Men of Science: http://science.sciencemag.org/content/111/2895/699.1
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`Eugenics <https://www.merriam-webster.com/dictionary/eugenics>`__
 
-National Academy of Science: http://www.nasonline.org
-'''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-Marital Happiness: https://www.jstor.org/stable/3347885?seq=1#page_scan_tab_contents
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`The Genetic Studies of Genius <https://archive.org/details/in.ernet.dli.2015.157060/page/n9>`__
 
-Human Betterment Foundation"\ https://embryo.asu.edu/pages/human-betterment-foundation-1928-1942
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-The Measurement of Intelligence:(Written by Lewis Terman in 1916):\ https://books.google.ca/books?id=AaZeDwAAQBAJ
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`The definition of "early to ripe, early to rot" <https://idioms.thefreedictionary.com/early+ripe%2C+early+rotten>`__
 
-Walter Lippmann Bio:\ https://www.britannica.com/biography/Walter-Lippmann
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-Metacognitive: https://cft.vanderbilt.edu/guides-sub-pages/metacognition/
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`American Men of Science <http://science.sciencemag.org/content/111/2895/699.1>`__
 
-Francis Galton: https://www.nytimes.com/2002/02/10/books/chapters/a-life-of-sir-francis-galton.html
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-Pedigree Analysis: https://www.nytimes.com/2002/02/10/books/chapters/a-life-of-sir-francis-galton.html
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`National Academy of Science <http://www.nasonline.org>`__
 
-Hysterical Patients: https://www.ncbi.nlm.nih.gov/pubmed/19569443
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-Here is a video with further information about Lewis Terman: https://www.youtube.com/watch?v=bzzL6S1sz7A
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+`Marital Happiness <https://www.jstor.org/stable/3347885?seq=1#page_scan_tab_contents>`__
 
-An article “75 Years Later, Study Still Tracking Geniuses”: https://www.nytimes.com/1995/03/07/science/75-years-later-study-still-tracking-geniuses.html
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+`Human Betterment Foundation <https://embryo.asu.edu/pages/human-betterment-foundation-1928-1942>`__
+
+
+`The Measurement of Intelligence:(Written by Lewis Terman in 1916) <https://books.google.ca/books?id=AaZeDwAAQBAJ>`__
+
+
+`Walter Lippmann Bio <https://www.britannica.com/biography/Walter-Lippmann>`__
+
+
+`Metacognitive <https://cft.vanderbilt.edu/guides-sub-pages/metacognition/>`__
+
+
+`Francis Galton <https://www.nytimes.com/2002/02/10/books/chapters/a-life-of-sir-francis-galton.html>`__
+
+
+`Pedigree Analysis <https://www.nytimes.com/2002/02/10/books/chapters/a-life-of-sir-francis-galton.html>`__
+
+
+`Hysterical Patients: <https://www.ncbi.nlm.nih.gov/pubmed/19569443>`__
+
+
+`A video with further information about Lewis Terman <https://www.youtube.com/watch?v=bzzL6S1sz7A>`__
+
+
+`An article “75 Years Later, Study Still Tracking Geniuses” <https://www.nytimes.com/1995/03/07/science/75-years-later-study-still-tracking-geniuses.html>`__
+
