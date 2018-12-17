@@ -14,14 +14,14 @@ The plan is to just slowly work away at the conversion as time permits, and, mor
 
 ## A teaching resource
 
-I still have all the motivations that follow in the sections below, but now I am using this material as the basis for a course in the [Arts First](https://uwaterloo.ca/arts-first/about) initiative at the University of Waterloo. I am organizing my effort to teach writing and communication around the history of psychology generally, but with the specific tool of contributing sections to this book. The first effort at this was Fall 2018. It went really well. The students engaged in a scaffolded series of assignments over the term to produce (as members of a group) an article for the textbook on one of Scientific Psychology's founders. Beginning with short outlines they built to full entries. As an aside each group also made a short video on their founder that was uploaded to the `uWaterlooPsych <https://www.youtube.com/c/UWaterlooPsych>`__ YouTube channel, and then linked in their write-ups. There were separate instructional sections on plagiarism, and referencing, as well as working through the content and feedback on the mechanics of technical writing. For a group of first-year University students that had not even had a Psych 101 course, I think the results were quite commendable, and advertise the value of having students create content as a route to learning. 
+I still have all the motivations that follow in the sections below, but now I am using this material as the basis for a course in the [Arts First](https://uwaterloo.ca/arts-first/about) initiative at the University of Waterloo. I am organizing my effort to teach writing and communication around the history of psychology generally, but with the specific tool of contributing sections to this book. The first effort at this was Fall 2018. It went really well. The students engaged in a scaffolded series of assignments over the term to produce (as members of a group) an article for the textbook on one of Scientific Psychology's founders. Beginning with short outlines they built to full entries. As an aside each group also made a short video on their founder that was uploaded to the [uWaterlooPsych](https://www.youtube.com/c/UWaterlooPsych) YouTube channel, and then linked in their write-ups. There were separate instructional sections on plagiarism, and referencing, as well as working through the content and feedback on the mechanics of technical writing. For a group of first-year University students that had not even had a Psych 101 course, I think the results were quite commendable, and advertise the value of having students create content as a route to learning. 
 
 The entries for Arts 140 Fall 2018 can be found at:
 
-1. `Fechner <https://history-of-psychology.readthedocs.io/en/latest/fechner.html>`__
-2. `Washburn <https://history-of-psychology.readthedocs.io/en/latest/washburn.html>`__
-3. `Terman <https://history-of-psychology.readthedocs.io/en/latest/terman.html>`__
-4. `Köhler <https://history-of-psychology.readthedocs.io/en/latest/kohler.html>`__
+1. [Fechner](https://history-of-psychology.readthedocs.io/en/latest/fechner.html)
+2. [Washburn](https://history-of-psychology.readthedocs.io/en/latest/washburn.html)
+3. [Terman](https://history-of-psychology.readthedocs.io/en/latest/terman.html)
+4. [Köhler](https://history-of-psychology.readthedocs.io/en/latest/kohler.html)
 
 ## Please feel free to contribute
 
