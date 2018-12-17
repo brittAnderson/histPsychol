@@ -4,27 +4,19 @@ Women in Psychology's Early Years
 
     :Author: Britt Anderson
 
-.. contents::
 
+.. toctree:: 
+   :maxdepth: 1
 
+   washburn
 
-1 Stub
-------
-
-1.1 Ricord
-~~~~~~~~~~
-
-1.2 Calkins
-~~~~~~~~~~~
-
-1.3 Washburn
-~~~~~~~~~~~~
-
-1.4 Ladd-Franklin
-~~~~~~~~~~~~~~~~~
-
-1.5 Berliner
-~~~~~~~~~~~~
+=======================================
+1. Early Women Scientific Psychologists
+=======================================
+   
+============
+1.2 Berliner
+============
 
 Section Author: Sarah Young
 
@@ -42,7 +34,17 @@ She was a professional, a critical thinker, a self-teacher, and always learning 
 Her famous words:
 “An unused life is an earlier death” 
 
-1.6 Sources
+Primary Source: `APA Anna Berliner <http://www.apadivisions.org/division-35/about/heritage/anna-berliner-biography.aspx>`_
+
+   
+2 Other early women psychologists include (stubs):
+--------------------------------------------------
+
+2.1 Ricord
+~~~~~~~~~~
+
+2.2 Calkins
 ~~~~~~~~~~~
 
-1. `APA Anna Berliner <http://www.apadivisions.org/division-35/about/heritage/anna-berliner-biography.aspx>`_
+2.3 Ladd-Franklin
+~~~~~~~~~~~~~~~~~

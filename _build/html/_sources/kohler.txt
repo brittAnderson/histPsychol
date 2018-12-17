@@ -157,7 +157,7 @@ can be broken down into individual parts, it is the relationship of
 these parts as a whole that we actually perceive (Boeree, n.d.). A
 common example is given in terms of music. Consider the video below.
 While a song may be made up of individual notes, it is their combination
-that we perceive as the melody. When twinkle-twinkle Little Star is played in different keys the notes that make up the melody change, but we still continue to recognize the same whole (melody) despite a complete different in its parts (actual tones).
+that we perceive as the melody. When Twinkle-Twinkle Little Star is played in different keys the notes that make up the melody change, but we still continue to recognize the same whole (melody) despite a complete difference in its parts (actual tones).
 
 .. raw:: html
 
