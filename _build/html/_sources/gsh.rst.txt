@@ -8,6 +8,8 @@ Granville Stanley Hall
 
    <p style="text-align:center;">
 
+|Hall|
+   
 .. raw:: html
 
    </p>
@@ -101,7 +103,7 @@ Psychology also became one of his several achievements, launched in
 
    <p style="text-align:center;">
 
-|Hall|
+|JH|
 
 .. raw:: html
 
@@ -174,6 +176,8 @@ would certainly look very different!
 
    <p style="text-align:center;">
 
+|Freud|
+   
 .. raw:: html
 
    </p>
@@ -313,5 +317,9 @@ https://commons.wikimedia.org/wiki/File:Johns_Hopkins_University.jpg
        from
        https://upload.wikimedia.org/wikipedia/commons/b/b4/G._Stanley_Hall.jpg
 
-.. |Hall| image:: https://upload.wikimedia.org/wikipedia/commons/9/92/Johns_Hopkins_University.jpg
+.. |Hall| image:: https://upload.wikimedia.org/wikipedia/commons/b/b4/G._Stanley_Hall.jpg
+          :width: 400
+                  
+.. |JH| image:: https://upload.wikimedia.org/wikipedia/commons/9/92/Johns_Hopkins_University.jpg
 
+.. |Freud| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hall_Freud_Jung_in_front_of_Clark_1909.jpg/752px-Hall_Freud_Jung_in_front_of_Clark_1909.jpg
