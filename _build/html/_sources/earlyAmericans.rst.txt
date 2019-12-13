@@ -5,7 +5,7 @@ Early Americans
     :Author: Britt Anderson
 
 .. contents::
-
+   
 
 
 1 Stub
@@ -14,7 +14,15 @@ Early Americans
 1.1 Granville Stanley Hall
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Haven't really started on this section, but I did hear an interesting podcast the other day on homework that gave a prominent place to G. Stanley Hall's Child Study Movement. Fast forward to about minute 32 to listen. 
+Contents:
+
+.. toctree::
+   :maxdepth: 1
+
+   gsh
+
+
+In addition, you might be interested in this podcast on G. Stanley Hall and the Child Study Movement
 
 .. raw:: html
 
