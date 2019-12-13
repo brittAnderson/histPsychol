@@ -131,7 +131,7 @@ Major works
 -  `Einleitung in die
    Psychologie <https://archive.org/details/einleitungindie01klgoog/page/n6>`__
    (1895; sixth edition, 1913; English translation, 1897)
-   \*\ `Philosophie der Gegenwart in
+-  `Philosophie der Gegenwart in
    Deutschland <https://archive.org/details/diephilosophied00klgoog/page/n6>`__
    (1902; fifth edition, 1911)
 -  `Immanuel
