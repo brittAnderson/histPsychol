@@ -31,5 +31,9 @@ Comparative Psychology and the Birth of Behaviorism
 1.2 Behaviorism
 ~~~~~~~~~~~~~~~
 
-1.2.1 Watson
-^^^^^^^^^^^^
+Contents:
+
+.. toctree::
+   :maxdepth: 1
+
+   watson

@@ -179,7 +179,7 @@ Külpe continued to work with Wundt becoming his laboratory assistant, then a pr
 2.1.3 The Würzburg School
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Külpe's enduring reputation comes from his association with the Würzburg school. The laboratory there represented a counterweight to Wundt's narrow interpretation of the permissible use of introspection in psychological research, and also represented a significant challenge to Wundt's scientific theory of the mental. For Wundt consciousness was an amalgam of sensation, feeling, and image. The group at Würzburg challenged this idea, putting particular pressure on the necessity of the image. In a series of experiments highlighting what today we could call *mental set* they demonstrated that task instructions could affect perceptual and conscious experience without any concomitant imagery. Conscious experience was characterized, by Wundt and similar thinkers, as having only duration, intensity, quality, and extensity (a spatial character). *Thought content* did not have these characteristics and was a suspect conscious element. Further, Wundtians felt that the introspective procedures of Külpe and collaborators was describing what had happened instead of the happening itself. A relatively contemporary discussion of this controversy of "imageless thought" can be found in `Ogden, 1911 (pdf) <http://psycnet.apa.org/journals/bul/8/6/183.pdf>`_, and a later discussion by `Boring (pdf) <http://psycnet.apa.org/journals/bul/50/3/169.pdf>`_.  A more modern and full discussion of the school by someone at Würzburg (Hoffman) can be found as a pdf `here <http://www.psychologie.uni-wuerzburg.de/w_schule/WSCHOOL2a.pdf>`_.
+Külpe's enduring reputation comes from his association with the Würzburg school. The laboratory there represented a counterweight to Wundt's narrow interpretation of the permissible use of introspection in psychological research, and also represented a significant challenge to Wundt's scientific theory of the mental. For Wundt consciousness was an amalgam of sensation, feeling, and image. The group at Würzburg challenged this idea, putting particular pressure on the necessity of the image. In a series of experiments highlighting what today we could call *mental set* they demonstrated that task instructions could affect perceptual and conscious experience without any concomitant imagery. Conscious experience was characterized, by Wundt and similar thinkers, as having only duration, intensity, quality, and extensity (a spatial character). *Thought content* did not have these characteristics and was a suspect conscious element. Further, Wundtians felt that the introspective procedures of Külpe and collaborators was describing what had happened instead of the happening itself. A relatively contemporary discussion of this controversy of "imageless thought" can be found in `Ogden, 1911 (pdf) <http://psycnet.apa.org/journals/bul/8/6/183.pdf>`_, and a later discussion by `Boring (pdf) <http://psycnet.apa.org/journals/bul/50/3/169.pdf>`_.  A more modern and full discussion of the school from `Würzburg (Hoffman) <http://www.psychologie.uni-wuerzburg.de/w_schule/WSCHOOL2a.pdf>`_ is available.
 
 2.1.4 Contributions
 ^^^^^^^^^^^^^^^^^^^
@@ -187,33 +187,26 @@ Külpe's enduring reputation comes from his association with the Würzburg schoo
 Külpe's contributions are several. He was interested in, and made more respectable, the scientific investigation of  “higher” order processes including the use of introspection to probe such entities as thinking - though he was perhaps not as involved in this as posterity emphasizes. He founded and equipped three labs in Germany, was widely regarded as one of the "nice guys" of the profession, and if he had not died relatively young, might have had a much larger influence on the course of the field. Given his character and his interests he could be regarded as a forerunner of a Cognitive Psychology, and he certainly was a direct influence on the psychologists who would go on to do seminal work in Gestalt psychology (Koffka and Werthemier) and Intelligence (Spearman). 
 
 
-.. [1] Hermann Ebbinghaus photo `credit <http://vlp.mpiwg-berlin.mpg.de/vlpimages/images/img6059.jpg>`_.
+.. [1] Hermann Ebbinghaus photo `credit <http://vlp.mpiwg-berlin.mpg.de/vlpimages/images/img6059.jpg>`_. 
 
 .. [2] The journals home page is: `https://us.hogrefe.com/products/journals/zeitschrift-fuer-psychologie <https://us.hogrefe.com/products/journals/zeitschrift-fuer-psychologie>`_ and an editorial with some history and some discussion of the name change can be found here: `http://dx.doi.org/10.1027/0044-3409.215.1.1 <http://dx.doi.org/10.1027/0044-3409.215.1.1>`_ .
 
 .. [3] Much good biographical material can be found in Ebbinghaus's obituary in the American Journal of Psychology. `https://dx.doi.org/10.2307/1414874 <https://dx.doi.org/10.2307/1414874>`_
 
-.. [4] The thesis is available on line as a free `book. <https://books.google.ca/books?id=F_RbAAAAcAAJ&pg=PP3&lpg=PP3&dq=hartmannsche+philosophie&source=bl&ots=fSI4Z75ZwM&sig=F_LmVyDk30UoKdj-o_z6kb0EvFY&hl=en&sa=X&ved=0ahUKEwjEq9XVzJrUAhVj0YMKHYecBCUQ6AEILDAB#v=onepage&q=hartmannsche%20philosophie&f=false>`_
+.. [4] The thesis is available on line as a free `book. <https://books.google.ca/books?id=F_RbAAAAcAAJ&pg=PP3&lpg=PP3&dq=hartmannsche+philosophie&source=bl&ots=fSI4Z75ZwM&sig=F_LmVyDk30UoKdj-o_z6kb0EvFY&hl=en&sa=X&ved=0ahUKEwjEq9XVzJrUAhVj0YMKHYecBCUQ6AEILDAB#v=onepage&q=hartmannsche%20philosophie&f=false>`_ 
 
-.. [5] This book was only recently published: `https://en.wikipedia.org/wiki/Philosophy_of_the_Unconscious <https://en.wikipedia.org/wiki/Philosophy_of_the_Unconscious>`_. An English translation is available `here <https://archive.org/stream/philosophyuncon04hartgoog#page/n3/mode/1up>`_. According to the foreword by the translator the book was published in 1868 by the then 27 year old philosopher.
+.. [5] This book was only recently published: `https://en.wikipedia.org/wiki/Philosophy_of_the_Unconscious <https://en.wikipedia.org/wiki/Philosophy_of_the_Unconscious>`_. An `English translation <https://archive.org/stream/philosophyuncon04hartgoog#page/n3/mode/1up>`_ is available [[`https://archive.org/stream/philosophyuncon04hartgoog#page/n3/mode/1up <https://archive.org/stream/philosophyuncon04hartgoog#page/n3/mode/1up>`_]. According to the foreword by the translator the book was published in 1868 by the then 27 year old philosopher. 
 
 .. [6] `https://archive.org/stream/philosophyuncon04hartgoog#page/n3/mode/1up <https://archive.org/stream/philosophyuncon04hartgoog#page/n3/mode/1up>`_
 
 .. [7] A portion of Lewis Carrol's Jabberwocky from Alice Through the Looking Glass.
-
-::
-
-
-
+    ::
     Twas brillig, and the slithy toves
-
     Did gyre and gimble in the wabe:
-
     All mimsy were the borogoves,
-
     And the mome raths outgrabe.
 
-.. [8] Ebbinghaus may not have been the only early psychologist inspired by poetry as a method for studying memory. See also `https://archive.org/stream/obliviscenceremi02ball#page/n14/mode/1up <https://archive.org/stream/obliviscenceremi02ball#page/n14/mode/1up>`_.
+.. [8] Ebbinghaus may not have been the only early psychologist inspired by poetry as a method for studying memory. See also `https://archive.org/stream/obliviscenceremi02ball#page/n14/mode/1up <https://archive.org/stream/obliviscenceremi02ball#page/n14/mode/1up>`_. 
 
 .. [9] For more detail there is an excellent article in the `Stanford Encyclopedia <https://plato.stanford.edu/entries/stumpf/>`_ on Stumpf.
 
@@ -221,7 +214,7 @@ Külpe's contributions are several. He was interested in, and made more respecta
 
 .. [11] Stumps' `closing words <http://vlp.mpiwg-berlin.mpg.de/library/data/lit14619?>`_ to Wundt and Wundt's `rejoinder <http://vlp.mpiwg-berlin.mpg.de/library/data/lit759?>`_ (easy to get the last word in when you have your own journal, and a pretty clear reason why you need more than one scientific psychology journal - Thank you Ebbinghaus.)
 
-.. [12] Page 436 of `http://www.jstor.org/stable/1413427 <http://www.jstor.org/stable/1413427>`_
+.. [12] Page 436 of `http://www.jstor.org/stable/1413427 <http://www.jstor.org/stable/1413427>`_ 
 
 .. [13] Link to the thesis [German]  `https://books.google.ca/books?id=G7I-AAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false <https://books.google.ca/books?id=G7I-AAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false>`_
 

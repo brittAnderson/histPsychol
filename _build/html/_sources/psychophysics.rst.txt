@@ -2,16 +2,17 @@
 Psychophysics
 =============
 
+.. toctree::
+   :maxdepth: 1
 
-.. contents::
+   fechner
 
 
 
-1 Stub
-------
+1 Another great of psychophysics (stub):
+========================================
 
 1.1 Ernst Weber
-~~~~~~~~~~~~~~~
+===============
 
-1.2 Gustav Fechner
-~~~~~~~~~~~~~~~~~~
+
