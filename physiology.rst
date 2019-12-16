@@ -18,3 +18,10 @@ Physiology
 
 1.3 Paul Pierre Broca
 ~~~~~~~~~~~~~~~~~~~~~
+
+Contents:
+
+.. toctree::
+   :maxdepth: 1
+
+   broca
