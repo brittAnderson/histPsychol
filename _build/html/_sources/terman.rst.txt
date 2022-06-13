@@ -11,7 +11,7 @@ Commons <https://commons.wikimedia.org/wiki/File:Lewis_Madison_Terman.jpg>`__
 Authors:
 --------
 
-Larissa Ward, Farzan Dubash, Alex Blackburn, Bhumika Bhandari, and
+Larissa Ward, Farzan Dubash, Bhumika Bhandari, and
 Karlyssa Fluttert
 
 Purpose:
