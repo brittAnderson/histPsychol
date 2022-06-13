@@ -5,7 +5,7 @@
 Downloaded from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lewis_Madison_Terman.jpg) 
 
 ## Authors:
-Larissa Ward, Farzan Dubash, Alex Blackburn, Bhumika Bhandari, and Karlyssa Fluttert
+Larissa Ward, Farzan Dubash, Bhumika Bhandari, and Karlyssa Fluttert
 
 ## Purpose:
 _The purpose for this paper is that it is written for Arts 140 class assignment. It will let students learn more about a specific psychologist. In the process of doing this assignment, students will further develop their research, communication and presentation skills._
