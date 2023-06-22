@@ -10,7 +10,6 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.11"
-  language: en
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
