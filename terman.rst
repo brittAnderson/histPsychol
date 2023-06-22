@@ -451,14 +451,11 @@ Criticism:
 ----------
 
 .. figure:: https://upload.wikimedia.org/wikipedia/en/e/e3/United_States_eugenics_advocacy_poster.jpg
-   :alt: In the early 1900s, the eugenics movement began to gain
-   traction in the US.
+   :alt: In the early 1900s, the eugenics movement began to gain traction in the US.
 
-   In the early 1900s, the eugenics movement began to gain traction in
-   the US.
+   In the early 1900s, the eugenics movement began to gain traction in the US.
 
-Downloaded from
-`Wikimedia <https://en.wikipedia.org/wiki/File:Eugenics_supporters_hold_signs_on_Wall_Street.jpg>`__
+   Downloaded from `Wikimedia <https://en.wikipedia.org/wiki/File:Eugenics_supporters_hold_signs_on_Wall_Street.jpg>`
 
 Throughout his academic career, Lewis Terman did a lot of work to
 further studies of intelligence, completely changing how we view
